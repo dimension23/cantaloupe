@@ -1,2 +1,2 @@
 #!/bin/bash
-spark-submit hmmer-spark.py
+spark-submit --master local[*] hmmer-spark.py
