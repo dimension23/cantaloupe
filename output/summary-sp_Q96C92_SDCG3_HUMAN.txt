@@ -1,0 +1,54 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AAA_13               PF13166.4    712 sp_Q96C92_SDCG3_HUMAN -            618      0.01   14.4   6.1   1   1   1.9e-05     0.014   13.9   6.1   367   459   274   365   258   431 0.79 AAA domain
+HALZ                 PF02183.16    43 sp_Q96C92_SDCG3_HUMAN -            618     0.019   15.0   2.9   1   2   0.00012     0.091   12.8   0.4    16    38   266   288   262   291 0.80 Homeobox associated leucine zipper
+HALZ                 PF02183.16    43 sp_Q96C92_SDCG3_HUMAN -            618     0.019   15.0   2.9   2   2      0.41   3.2e+02    1.5   0.1    16    31   354   369   338   371 0.66 Homeobox associated leucine zipper
+TSC22                PF01166.16    57 sp_Q96C92_SDCG3_HUMAN -            618     0.022   15.0   3.4   1   2      0.43   3.3e+02    1.5   0.1    26    46   267   287   262   298 0.76 TSC-22/dip/bun family
+TSC22                PF01166.16    57 sp_Q96C92_SDCG3_HUMAN -            618     0.022   15.0   3.4   2   2    0.0001     0.081   13.1   0.1    15    41   344   370   337   385 0.84 TSC-22/dip/bun family
+TPR_MLP1_2           PF07926.10   129 sp_Q96C92_SDCG3_HUMAN -            618     0.028   14.3  21.7   1   2   2.4e-05     0.019   14.9  14.2     3   108   264   369   262   371 0.96 TPR/MLP1/MLP2-like protein
+TPR_MLP1_2           PF07926.10   129 sp_Q96C92_SDCG3_HUMAN -            618     0.028   14.3  21.7   2   2      0.07        55    3.7   0.8    50    84   380   413   376   441 0.82 TPR/MLP1/MLP2-like protein
+ZapB                 PF06005.10    71 sp_Q96C92_SDCG3_HUMAN -            618     0.031   14.6  14.6   1   2     0.014        11    6.4   5.8    21    62   265   306   262   337 0.64 Cell division protein ZapB
+ZapB                 PF06005.10    71 sp_Q96C92_SDCG3_HUMAN -            618     0.031   14.6  14.6   2   2     0.001       0.8   10.1   4.4     4    66   329   406   320   408 0.83 Cell division protein ZapB
+DNA_PPF              PF02916.13   116 sp_Q96C92_SDCG3_HUMAN -            618      0.07   13.4   1.9   1   1   0.00018      0.14   12.4   1.9    30   114   280   369   274   370 0.89 DNA polymerase processivity factor
+GA                   PF01468.15    60 sp_Q96C92_SDCG3_HUMAN -            618     0.096   12.8   1.1   1   2       8.8   6.8e+03   -2.7   0.0     7    22   284   299   282   303 0.74 GA module
+GA                   PF01468.15    60 sp_Q96C92_SDCG3_HUMAN -            618     0.096   12.8   1.1   2   2   0.00056      0.43   10.7   1.3    14    57   377   420   373   422 0.92 GA module
+GIT_CC               PF16559.3     66 sp_Q96C92_SDCG3_HUMAN -            618      0.67    9.9  14.9   1   4    0.0033       2.5    8.1   0.1    44    65   262   283   258   284 0.93 GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC               PF16559.3     66 sp_Q96C92_SDCG3_HUMAN -            618      0.67    9.9  14.9   2   4     0.098        76    3.3   0.1    21    64   274   318   271   320 0.78 GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC               PF16559.3     66 sp_Q96C92_SDCG3_HUMAN -            618      0.67    9.9  14.9   3   4   0.00097      0.76    9.7   2.3    41    64   347   370   309   371 0.91 GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC               PF16559.3     66 sp_Q96C92_SDCG3_HUMAN -            618      0.67    9.9  14.9   4   4       8.3   6.4e+03   -2.9   0.5    28    53   384   409   382   413 0.72 GIT coiled-coil Rho guanine nucleotide exchange factor
+PilJ                 PF13675.4    114 sp_Q96C92_SDCG3_HUMAN -            618      0.81    9.6   5.2   1   2      0.75   5.8e+02    0.4   0.2    49    98   262   309   257   332 0.67 Type IV pili methyl-accepting chemotaxis transducer N-term
+PilJ                 PF13675.4    114 sp_Q96C92_SDCG3_HUMAN -            618      0.81    9.6   5.2   2   2   0.00078      0.61   10.0   1.0    26   112   334   419   331   421 0.88 Type IV pili methyl-accepting chemotaxis transducer N-term
+Lebercilin           PF15619.4    193 sp_Q96C92_SDCG3_HUMAN -            618      0.83    9.1  16.6   1   2     0.007       5.5    6.5   8.1   105   173   264   332   255   340 0.75 Ciliary protein causing Leber congenital amaurosis disease
+Lebercilin           PF15619.4    193 sp_Q96C92_SDCG3_HUMAN -            618      0.83    9.1  16.6   2   2    0.0042       3.3    7.2   2.1     2    38   335   370   334   405 0.86 Ciliary protein causing Leber congenital amaurosis disease
+DUF3508              PF12018.6    276 sp_Q96C92_SDCG3_HUMAN -            618       0.9    8.9  10.5   1   1    0.0022       1.7    7.9  10.5     5    86   273   353   271   456 0.83 Domain of unknown function (DUF3508)
+DUF730               PF05325.9    122 sp_Q96C92_SDCG3_HUMAN -            618       1.1    9.2   3.2   1   2    0.0012      0.97    9.3   1.3    72   117   270   315   256   321 0.90 Protein of unknown function (DUF730)
+DUF730               PF05325.9    122 sp_Q96C92_SDCG3_HUMAN -            618       1.1    9.2   3.2   2   2       6.4     5e+03   -2.6   0.0    81   117   332   368   324   370 0.66 Protein of unknown function (DUF730)
+HMMR_C               PF15908.3    157 sp_Q96C92_SDCG3_HUMAN -            618       2.2    8.4   9.5   1   2     0.075        58    3.8   1.2    89   128   263   302   261   326 0.70 Hyaluronan mediated motility receptor C-terminal
+HMMR_C               PF15908.3    157 sp_Q96C92_SDCG3_HUMAN -            618       2.2    8.4   9.5   2   2    0.0023       1.8    8.7   1.9    81   122   329   370   321   389 0.85 Hyaluronan mediated motility receptor C-terminal
+DUF724               PF05266.12   188 sp_Q96C92_SDCG3_HUMAN -            618       2.4    7.8  12.5   1   1    0.0018       1.4    8.6  10.4    90   173   281   365   277   372 0.62 Protein of unknown function (DUF724)
+DUF4404              PF14357.4     84 sp_Q96C92_SDCG3_HUMAN -            618       3.5    8.3   9.3   1   2   0.00085      0.66   10.6   4.3     3    59   276   332   274   337 0.87 Domain of unknown function (DUF4404)
+DUF4404              PF14357.4     84 sp_Q96C92_SDCG3_HUMAN -            618       3.5    8.3   9.3   2   2    0.0047       3.7    8.2   3.0     3    60   297   354   296   366 0.88 Domain of unknown function (DUF4404)
+Tropomyosin          PF00261.18   237 sp_Q96C92_SDCG3_HUMAN -            618       3.9    6.7  19.9   1   2   0.00013       0.1   11.8  13.6   120   222   265   368   261   371 0.86 Tropomyosin
+Tropomyosin          PF00261.18   237 sp_Q96C92_SDCG3_HUMAN -            618       3.9    6.7  19.9   2   2       6.2   4.8e+03   -3.5   0.4   147   162   409   424   382   440 0.52 Tropomyosin
+Laminin_II           PF06009.10   138 sp_Q96C92_SDCG3_HUMAN -            618       4.1    7.3  13.2   1   2    0.0048       3.7    7.4  10.5    11    85   295   369   282   405 0.85 Laminin Domain II
+Laminin_II           PF06009.10   138 sp_Q96C92_SDCG3_HUMAN -            618       4.1    7.3  13.2   2   2       1.2   9.6e+02   -0.4   0.3    49    71   390   412   373   439 0.46 Laminin Domain II
+CLZ                  PF16526.3     71 sp_Q96C92_SDCG3_HUMAN -            618       6.5    7.1   9.8   1   3       1.6   1.2e+03   -0.2   0.1    39    62   263   286   261   295 0.80 C-terminal leucine zipper domain of cyclic nucleotide-gated channels
+CLZ                  PF16526.3     71 sp_Q96C92_SDCG3_HUMAN -            618       6.5    7.1   9.8   2   3      0.01       8.1    6.7   4.0    15    49   306   340   301   356 0.78 C-terminal leucine zipper domain of cyclic nucleotide-gated channels
+CLZ                  PF16526.3     71 sp_Q96C92_SDCG3_HUMAN -            618       6.5    7.1   9.8   3   3      0.31   2.4e+02    2.0   0.2    28    55   340   367   338   370 0.85 C-terminal leucine zipper domain of cyclic nucleotide-gated channels
+TolA_bind_tri        PF16331.3     76 sp_Q96C92_SDCG3_HUMAN -            618         7    6.7  10.9   1   2      0.63   4.9e+02    0.8   0.5    23    45   267   289   260   310 0.59 TolA binding protein trimerisation
+TolA_bind_tri        PF16331.3     76 sp_Q96C92_SDCG3_HUMAN -            618         7    6.7  10.9   2   2    0.0019       1.5    8.8   4.1     2    52   320   370   319   375 0.93 TolA binding protein trimerisation
+IncA                 PF04156.12   190 sp_Q96C92_SDCG3_HUMAN -            618       7.5    6.2  20.1   1   2     0.059        46    3.6   7.7    77   149   265   334   235   343 0.75 IncA protein
+IncA                 PF04156.12   190 sp_Q96C92_SDCG3_HUMAN -            618       7.5    6.2  20.1   2   2    0.0077         6    6.5   8.8    72   172   329   438   322   443 0.83 IncA protein
+Fib_alpha            PF08702.8    143 sp_Q96C92_SDCG3_HUMAN -            618       7.7    6.6  15.2   1   2    0.0025       1.9    8.5  10.7    34   117   275   365   265   372 0.80 Fibrinogen alpha/beta chain family
+Fib_alpha            PF08702.8    143 sp_Q96C92_SDCG3_HUMAN -            618       7.7    6.6  15.2   2   2       2.1   1.6e+03   -1.0   0.1   100   123   383   407   375   415 0.68 Fibrinogen alpha/beta chain family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q96C92_SDCG3_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:21:17 2016
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Hist_deacetyl        PF00850.17   306 sp_P56524_HDAC4_HUMAN -           1387   1.8e-80  270.6   0.0   1   3       1.2   9.6e+03   -4.4   7.0    20    73    99   154    70   199 0.52 Histone deacetylase domain
+Hist_deacetyl        PF00850.17   306 sp_P56524_HDAC4_HUMAN -           1387   1.8e-80  270.6   0.0   2   3   2.2e-84   1.8e-80  270.6   0.0     1   306   675   992   675   992 0.91 Histone deacetylase domain
+Hist_deacetyl        PF00850.17   306 sp_P56524_HDAC4_HUMAN -           1387   1.8e-80  270.6   0.0   3   3      0.33   2.7e+03   -2.6   0.4    36    72  1018  1053  1003  1157 0.57 Histone deacetylase domain
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   1   6     2e-40   1.6e-36  124.2  46.2     2    91    63   152    62   152 0.99 Glutamine rich N terminal domain of histone deacetylase 4
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   2   6         2   1.6e+04   -5.1  14.8    34    79   457   502   455   510 0.84 Glutamine rich N terminal domain of histone deacetylase 4
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   3   6         2   1.6e+04  -13.5  20.1    34    79   484   524   480   593 0.57 Glutamine rich N terminal domain of histone deacetylase 4
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   4   6      0.93   7.6e+03   -3.0   6.0    54    82  1095  1122  1083  1131 0.43 Glutamine rich N terminal domain of histone deacetylase 4
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   5   6         2   1.6e+04   -5.4  15.3     5    82  1193  1262  1189  1273 0.79 Glutamine rich N terminal domain of histone deacetylase 4
+HDAC4_Gln            PF12203.6     91 sp_P56524_HDAC4_HUMAN -           1387   1.6e-36  124.2  46.2   6   6         2   1.6e+04   -8.7  10.8    34    65  1302  1333  1271  1386 0.62 Glutamine rich N terminal domain of histone deacetylase 4
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P56524_HDAC4_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:21:21 2016
+# [ok]

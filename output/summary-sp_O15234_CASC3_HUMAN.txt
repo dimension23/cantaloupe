@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ras                  PF00071.20   162 sp_P01112_RASH_HUMAN -            703   1.9e-57  193.2   0.1   1   1   1.3e-60   2.6e-57  192.8   0.1     1   161     5   164     5   165 0.99 Ras family
+Roc                  PF08477.11   120 sp_P01112_RASH_HUMAN -            703   1.2e-20   73.8   0.0   1   1   8.7e-24   1.8e-20   73.2   0.0     1   120     5   120     5   120 0.88 Ras of Complex, Roc, domain of DAPkinase
+Btz                  PF09405.8    130 sp_P01112_RASH_HUMAN -            703   8.1e-10   38.9   0.6   1   1   1.1e-12   2.3e-09   37.5   0.6    52   129   190   248   166   249 0.84 CASC3/Barentsz eIF4AIII binding
+Arf                  PF00025.19   175 sp_P01112_RASH_HUMAN -            703   3.8e-08   32.9   0.0   1   1   2.5e-11   5.2e-08   32.4   0.0    14   174     3   162     1   163 0.84 ADP-ribosylation factor family
+GTP_EFTU             PF00009.25   194 sp_P01112_RASH_HUMAN -            703   3.5e-05   23.3   0.1   1   2      0.87   1.8e+03   -1.8   0.0     6    27     6    27     4    47 0.80 Elongation factor Tu GTP binding domain
+GTP_EFTU             PF00009.25   194 sp_P01112_RASH_HUMAN -            703   3.5e-05   23.3   0.1   2   2   4.6e-08   9.3e-05   21.9   0.1    66   143    47   129    18   166 0.76 Elongation factor Tu GTP binding domain
+DUF258               PF03193.14   167 sp_P01112_RASH_HUMAN -            703   0.00018   21.3   0.0   1   2    0.0015         3    7.6   0.0   102   122     6    26     1    41 0.85 Protein of unknown function, DUF258
+DUF258               PF03193.14   167 sp_P01112_RASH_HUMAN -            703   0.00018   21.3   0.0   2   2   9.2e-05      0.19   11.5   0.0    44    92   106   154    56   165 0.89 Protein of unknown function, DUF258
+MMR_HSR1             PF01926.21   114 sp_P01112_RASH_HUMAN -            703   0.00027   20.9   0.0   1   1     2e-07   0.00042   20.3   0.0     2   114     6   117     5   117 0.79 50S ribosome-binding GTPase
+FeoB_N               PF02421.16   156 sp_P01112_RASH_HUMAN -            703      0.01   15.2   0.0   1   1   1.8e-05     0.036   13.5   0.0   105   151   108   154     4   159 0.84 Ferrous iron transport protein B
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_O15234_CASC3_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:17:41 2016
+# [ok]

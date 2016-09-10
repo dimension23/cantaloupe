@@ -1,14 +1,16 @@
-#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
-# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
-#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-Pkinase              PF00069.23   264 sp_O96017_CHK2_HUMAN -            543   1.7e-74  250.4   0.0   1   1   1.1e-77   2.2e-74  250.0   0.0     3   264   222   486   220   486 0.92 Protein kinase domain
-Pkinase_Tyr          PF07714.15   260 sp_O96017_CHK2_HUMAN -            543   4.2e-31  108.0   0.0   1   1   2.8e-34   5.6e-31  107.6   0.0     3   253   222   477   220   483 0.81 Protein tyrosine kinase
-FHA                  PF00498.24    69 sp_O96017_CHK2_HUMAN -            543     6e-12   45.6   0.0   1   1   7.7e-15   1.6e-11   44.3   0.0     1    68   113   191   113   192 0.94 FHA domain
-Kinase-like          PF14531.4    288 sp_O96017_CHK2_HUMAN -            543   1.3e-06   27.8   0.0   1   1   9.3e-10   1.9e-06   27.3   0.0   129   282   308   468   283   474 0.76 Kinase-like
-Kdo                  PF06293.12   207 sp_O96017_CHK2_HUMAN -            543    0.0041   16.4   0.1   1   1   3.2e-06    0.0065   15.7   0.1    96   168   301   371   284   375 0.75 Lipopolysaccharide kinase (Kdo/WaaP) family
-RIO1                 PF01163.20   188 sp_O96017_CHK2_HUMAN -            543      0.07   12.6   0.1   1   1   6.5e-05      0.13   11.7   0.1    53   143   268   360   235   371 0.74 RIO1 family
-YrbL-PhoP_reg        PF10707.7    200 sp_O96017_CHK2_HUMAN -            543      0.13   11.7   0.0   1   1   0.00014      0.28   10.5   0.0   132   184   335   385   319   387 0.84 PhoP regulatory network protein YrbL
-APH                  PF01636.21   240 sp_O96017_CHK2_HUMAN -            543      0.13   12.0   0.0   1   1   0.00012      0.24   11.2   0.0   164   187   339   363   314   374 0.76 Phosphotransferase enzyme family
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Spin-Ssty            PF02513.15    50 sp_Q9Y657_SPIN1_HUMAN -            541   2.8e-75  247.8   7.3   1   3   1.8e-30   3.7e-27   93.7   0.1     1    49    54   102    54   103 0.99 Spin/Ssty Family
+Spin-Ssty            PF02513.15    50 sp_Q9Y657_SPIN1_HUMAN -            541   2.8e-75  247.8   7.3   2   3   1.9e-26   3.8e-23   80.8   0.1     1    50   133   182   133   182 0.99 Spin/Ssty Family
+Spin-Ssty            PF02513.15    50 sp_Q9Y657_SPIN1_HUMAN -            541   2.8e-75  247.8   7.3   3   3   8.9e-25   1.8e-21   75.5   0.9     1    50   214   259   214   259 0.99 Spin/Ssty Family
+Pkinase              PF00069.23   264 sp_Q9Y657_SPIN1_HUMAN -            541     4e-65  219.7   0.0   1   1   2.8e-68   5.8e-65  219.1   0.0    43   264   266   484   249   484 0.92 Protein kinase domain
+Pkinase_Tyr          PF07714.15   260 sp_Q9Y657_SPIN1_HUMAN -            541   8.2e-26   90.7   0.0   1   1     6e-29   1.2e-25   90.1   0.0    46   253   266   475   245   481 0.82 Protein tyrosine kinase
+Kinase-like          PF14531.4    288 sp_Q9Y657_SPIN1_HUMAN -            541   1.4e-06   27.8   0.0   1   1   9.1e-10   1.9e-06   27.3   0.0   129   282   306   466   279   472 0.76 Kinase-like
+Kdo                  PF06293.12   207 sp_Q9Y657_SPIN1_HUMAN -            541    0.0036   16.5   0.1   1   1   3.2e-06    0.0065   15.7   0.1    96   168   299   369   282   373 0.75 Lipopolysaccharide kinase (Kdo/WaaP) family
+APH                  PF01636.21   240 sp_Q9Y657_SPIN1_HUMAN -            541      0.12   12.1   0.0   1   1   9.5e-05      0.19   11.5   0.0   163   187   336   361   242   372 0.87 Phosphotransferase enzyme family
+RIO1                 PF01163.20   188 sp_Q9Y657_SPIN1_HUMAN -            541      0.12   11.8   0.2   1   1   0.00011      0.23   10.9   0.2    54   143   267   358   250   369 0.76 RIO1 family
+YrbL-PhoP_reg        PF10707.7    200 sp_Q9Y657_SPIN1_HUMAN -            541      0.15   11.5   0.0   1   1   0.00014      0.28   10.5   0.0   132   184   333   383   317   385 0.84 PhoP regulatory network protein YrbL
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -17,5 +19,5 @@ APH                  PF01636.21   240 sp_O96017_CHK2_HUMAN -            543     
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_O96017_CHK2_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:41 2016
+# Date:            Sat Sep 10 08:19:10 2016
 # [ok]

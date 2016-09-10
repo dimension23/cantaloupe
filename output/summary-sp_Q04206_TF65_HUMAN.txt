@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RHD_DNA_bind         PF00554.20   169 sp_Q04206_TF65_HUMAN -            551   1.4e-69  233.3   0.0   1   1   2.3e-73   1.9e-69  232.8   0.0     1   169    21   186    21   186 0.96 Rel homology DNA-binding domain
+RHD_dimer            PF16179.3    103 sp_Q04206_TF65_HUMAN -            551   2.7e-37  126.8   0.0   1   1   5.6e-41   4.6e-37  126.1   0.0     1   102   195   291   195   292 0.99 Rel homology dimerisation domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q04206_TF65_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:16:46 2016
+# [ok]

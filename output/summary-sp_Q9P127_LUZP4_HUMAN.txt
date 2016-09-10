@@ -1,0 +1,22 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.15   260 sp_Q9P127_LUZP4_HUMAN -           1366   1.4e-93  312.8   0.0   1   1   7.5e-97     2e-93  312.3   0.0     2   259   999  1264   998  1265 0.97 Protein tyrosine kinase
+Pkinase              PF00069.23   264 sp_Q9P127_LUZP4_HUMAN -           1366   2.2e-39  135.3   0.0   1   1   1.5e-42     4e-39  134.4   0.0     4   260  1001  1263   998  1265 0.83 Protein kinase domain
+Recep_L_domain       PF01030.22   112 sp_Q9P127_LUZP4_HUMAN -           1366   3.9e-29  100.9   0.4   1   1   2.9e-32     8e-29   99.9   0.4     1   106   351   460   351   465 0.95 Receptor L domain
+fn3                  PF00041.19    85 sp_Q9P127_LUZP4_HUMAN -           1366   4.2e-19   68.5   8.8   1   4   1.4e-06    0.0039   17.4   0.2     6    77   494   584   489   586 0.82 Fibronectin type III domain
+fn3                  PF00041.19    85 sp_Q9P127_LUZP4_HUMAN -           1366   4.2e-19   68.5   8.8   2   4     5e-06     0.014   15.6   0.1     7    40   618   650   613   666 0.83 Fibronectin type III domain
+fn3                  PF00041.19    85 sp_Q9P127_LUZP4_HUMAN -           1366   4.2e-19   68.5   8.8   3   4   3.4e-05     0.091   13.0   0.0    31    79   760   808   751   812 0.81 Fibronectin type III domain
+fn3                  PF00041.19    85 sp_Q9P127_LUZP4_HUMAN -           1366   4.2e-19   68.5   8.8   4   4   1.1e-08     3e-05   24.1   0.1     3    84   834   915   832   916 0.90 Fibronectin type III domain
+Kinase-like          PF14531.4    288 sp_Q9P127_LUZP4_HUMAN -           1366    0.0064   15.7   0.0   1   1   3.8e-06      0.01   15.0   0.0   158   258  1123  1220  1111  1255 0.78 Kinase-like
+DUF4476              PF14771.4     91 sp_Q9P127_LUZP4_HUMAN -           1366      0.15   12.2   0.0   1   1   0.00013      0.34   11.1   0.0    11    62  1031  1082  1024  1084 0.91 Domain of unknown function (DUF4476)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9P127_LUZP4_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:21:54 2016
+# [ok]

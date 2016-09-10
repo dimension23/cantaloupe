@@ -1,0 +1,23 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GLTP                 PF08718.9    149 sp_Q96JA3_PKHA8_HUMAN -            519   3.3e-43  147.4   0.0   1   1   2.9e-46   7.9e-43  146.1   0.0     1   147   330   470   330   472 0.96 Glycolipid transfer protein (GLTP)
+PH                   PF00169.27   105 sp_Q96JA3_PKHA8_HUMAN -            519   8.9e-12   45.3   0.0   1   1   8.6e-15   2.3e-11   44.0   0.0     3   103     1    91     1    93 0.91 PH domain
+PH_8                 PF15409.4     89 sp_Q96JA3_PKHA8_HUMAN -            519   4.6e-05   23.5   0.0   1   2   6.4e-08   0.00017   21.6   0.0    10    88    11    91     3    92 0.74 Pleckstrin homology domain
+PH_8                 PF15409.4     89 sp_Q96JA3_PKHA8_HUMAN -            519   4.6e-05   23.5   0.0   2   2       2.2   5.9e+03   -2.5   0.0     6    33    98   125    94   150 0.72 Pleckstrin homology domain
+PH_11                PF15413.4    105 sp_Q96JA3_PKHA8_HUMAN -            519   0.00019   21.7   2.4   1   2   2.8e-07   0.00075   19.7   0.4     2   102     2    88     1   125 0.79 Pleckstrin homology domain
+PH_11                PF15413.4    105 sp_Q96JA3_PKHA8_HUMAN -            519   0.00019   21.7   2.4   2   2       0.8   2.2e+03   -1.0   0.1    30    75   196   251   189   289 0.56 Pleckstrin homology domain
+PH_3                 PF14593.4    104 sp_Q96JA3_PKHA8_HUMAN -            519     0.062   13.3   0.0   1   2   0.00021      0.57   10.2   0.0    28    94    16    87     1    95 0.71 PH domain
+PH_3                 PF14593.4    104 sp_Q96JA3_PKHA8_HUMAN -            519     0.062   13.3   0.0   2   2     0.073     2e+02    2.0   0.0    21    66    74   119    71   124 0.87 PH domain
+AKNA                 PF12443.6     99 sp_Q96JA3_PKHA8_HUMAN -            519     0.092   13.3   1.4   1   2   5.8e-05      0.16   12.5   0.2     4    67    73   136    72   148 0.90 AT-hook-containing transcription factor
+AKNA                 PF12443.6     99 sp_Q96JA3_PKHA8_HUMAN -            519     0.092   13.3   1.4   2   2       2.6     7e+03   -2.4   0.1    54    73   275   294   252   299 0.61 AT-hook-containing transcription factor
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q96JA3_PKHA8_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:22:37 2016
+# [ok]

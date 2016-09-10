@@ -1,0 +1,31 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF3498              PF12004.6    524 sp_Q5VWQ8_DAB2P_HUMAN -           1189  4.9e-197  656.1   8.1   1   1  3.6e-200  4.9e-197  656.1   8.1     1   524   646  1159   646  1159 0.94 Domain of unknown function (DUF3498)
+RasGAP               PF00616.17   208 sp_Q5VWQ8_DAB2P_HUMAN -           1189     3e-27   95.6   5.3   1   3   2.9e-14   3.9e-11   42.9   0.0     1    70   392   460   392   470 0.93 GTPase-activator protein for Ras-like GTPase
+RasGAP               PF00616.17   208 sp_Q5VWQ8_DAB2P_HUMAN -           1189     3e-27   95.6   5.3   2   3     1e-17   1.4e-14   54.2   0.1   109   208   467   563   460   563 0.87 GTPase-activator protein for Ras-like GTPase
+RasGAP               PF00616.17   208 sp_Q5VWQ8_DAB2P_HUMAN -           1189     3e-27   95.6   5.3   3   3       1.2   1.6e+03   -1.6   1.2    10    43  1053  1088  1032  1158 0.55 GTPase-activator protein for Ras-like GTPase
+C2                   PF00168.28   103 sp_Q5VWQ8_DAB2P_HUMAN -           1189   8.4e-08   32.3   0.0   1   1   1.1e-10   1.5e-07   31.5   0.0     2   103   214   313   213   313 0.83 C2 domain
+Bacillus_HBL         PF05791.9    178 sp_Q5VWQ8_DAB2P_HUMAN -           1189   0.00014   21.5   5.0   1   1   2.2e-07    0.0003   20.5   5.0    74   173  1052  1150  1037  1154 0.91 Bacillus haemolytic enterotoxin (HBL)
+PH_2                 PF08458.8    105 sp_Q5VWQ8_DAB2P_HUMAN -           1189     0.011   15.9   0.0   1   1     2e-05     0.027   14.7   0.0    21    97   119   197   112   202 0.65 Plant pleckstrin homology-like region
+PH                   PF00169.27   105 sp_Q5VWQ8_DAB2P_HUMAN -           1189     0.013   15.8   0.3   1   2     4e-05     0.054   13.9   0.0    61   104   162   201   129   202 0.79 PH domain
+PH                   PF00169.27   105 sp_Q5VWQ8_DAB2P_HUMAN -           1189     0.013   15.8   0.3   2   2       5.4   7.4e+03   -2.6   0.0    67    92   575   600   554   602 0.79 PH domain
+Packaging_FI         PF14000.4    131 sp_Q5VWQ8_DAB2P_HUMAN -           1189     0.099   13.0   0.7   1   2      0.14     2e+02    2.3   0.0    21    65   874   918   865   922 0.87 DNA packaging protein FI
+Packaging_FI         PF14000.4    131 sp_Q5VWQ8_DAB2P_HUMAN -           1189     0.099   13.0   0.7   2   2    0.0034       4.7    7.6   0.9     7    89  1079  1163  1075  1181 0.82 DNA packaging protein FI
+Med4                 PF10018.7    194 sp_Q5VWQ8_DAB2P_HUMAN -           1189      0.28   10.7   6.9   1   2   0.00033      0.45   10.0   5.5     7    83  1062  1138  1056  1142 0.72 Vitamin-D-receptor interacting Mediator subunit 4
+Med4                 PF10018.7    194 sp_Q5VWQ8_DAB2P_HUMAN -           1189      0.28   10.7   6.9   2   2      0.71   9.7e+02   -0.8   0.0     4    30  1138  1164  1135  1164 0.85 Vitamin-D-receptor interacting Mediator subunit 4
+EMP24_GP25L          PF01105.22   182 sp_Q5VWQ8_DAB2P_HUMAN -           1189      0.85    9.4   4.0   1   1    0.0012       1.7    8.4   4.0    63   149  1047  1135  1028  1138 0.85 emp24/gp25L/p24 family/GOLD
+Gly_acyl_tr_N        PF06021.9    201 sp_Q5VWQ8_DAB2P_HUMAN -           1189         1    9.3   4.6   1   1    0.0014         2    8.4   4.6    65   177  1039  1150  1030  1155 0.85 Aralkyl acyl-CoA:amino acid N-acyltransferase
+XLF                  PF09302.9    179 sp_Q5VWQ8_DAB2P_HUMAN -           1189       3.6    7.6   7.0   1   1    0.0066       8.9    6.3   7.0    59   174  1036  1147  1025  1155 0.75 XLF-Cernunnos, XRcc4-like factor, NHEJ component
+Jnk-SapK_ap_N        PF09744.7    156 sp_Q5VWQ8_DAB2P_HUMAN -           1189       4.9    7.2  16.4   1   2       2.3   3.1e+03   -1.9   3.2    74   130  1036  1074  1026  1086 0.36 JNK_SAPK-associated protein-1
+Jnk-SapK_ap_N        PF09744.7    156 sp_Q5VWQ8_DAB2P_HUMAN -           1189       4.9    7.2  16.4   2   2    0.0046       6.2    6.9  14.3    35   134  1056  1160  1054  1168 0.75 JNK_SAPK-associated protein-1
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P41279_M3K8_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:17:30 2016
+# [ok]

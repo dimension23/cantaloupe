@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.23   264 sp_Q9Y3S1_WNK2_HUMAN -           2297   1.8e-53  181.4   0.0   1   1   4.8e-57   2.6e-53  180.9   0.0     6   264   200   453   195   453 0.92 Protein kinase domain
+Pkinase_Tyr          PF07714.15   260 sp_Q9Y3S1_WNK2_HUMAN -           2297   2.3e-40  138.4   0.0   1   1     6e-44   3.3e-40  137.9   0.0     1   258   195   449   195   451 0.89 Protein tyrosine kinase
+OSR1_C               PF12202.6     38 sp_Q9Y3S1_WNK2_HUMAN -           2297   2.4e-19   68.9   2.1   1   2   2.7e-21   1.5e-17   63.1   0.1     1    38   474   511   474   511 0.99 Oxidative-stress-responsive kinase 1 C terminal
+OSR1_C               PF12202.6     38 sp_Q9Y3S1_WNK2_HUMAN -           2297   2.4e-19   68.9   2.1   2   2    0.0036        19    5.1   0.2    25    38  1216  1229  1214  1229 0.95 Oxidative-stress-responsive kinase 1 C terminal
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9Y3S1_WNK2_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:19:14 2016
+# [ok]

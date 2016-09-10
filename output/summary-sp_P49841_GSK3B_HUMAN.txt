@@ -1,0 +1,20 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.23   264 sp_P49841_GSK3B_HUMAN -            428   1.2e-68  231.2   0.0   1   1   5.5e-72   1.5e-68  230.9   0.0     1   264    56   340    56   340 0.90 Protein kinase domain
+Pkinase_Tyr          PF07714.15   260 sp_P49841_GSK3B_HUMAN -            428   3.8e-24   85.2   0.0   1   1   1.9e-27   5.2e-24   84.8   0.0     5   208    60   258    57   309 0.83 Protein tyrosine kinase
+Kinase-like          PF14531.4    288 sp_P49841_GSK3B_HUMAN -            428   4.4e-05   22.8   0.0   1   2       0.1   2.8e+02    0.5   0.0    17    61    59   103    51   150 0.82 Kinase-like
+Kinase-like          PF14531.4    288 sp_P49841_GSK3B_HUMAN -            428   4.4e-05   22.8   0.0   2   2   1.2e-07   0.00032   20.0   0.0   143   239   156   246   128   250 0.77 Kinase-like
+APH                  PF01636.21   240 sp_P49841_GSK3B_HUMAN -            428    0.0053   16.6   0.1   1   1   5.3e-06     0.014   15.2   0.1   165   187   174   196   164   205 0.78 Phosphotransferase enzyme family
+Kdo                  PF06293.12   207 sp_P49841_GSK3B_HUMAN -            428     0.017   14.4   0.0   1   1   9.1e-06     0.025   13.8   0.0    60   167    96   202    86   212 0.71 Lipopolysaccharide kinase (Kdo/WaaP) family
+ABC1                 PF03109.14   119 sp_P49841_GSK3B_HUMAN -            428     0.072   13.1   0.0   1   1   5.6e-05      0.15   12.1   0.0    15    42    58    86    52   137 0.85 ABC1 family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P49841_GSK3B_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:17:13 2016
+# [ok]

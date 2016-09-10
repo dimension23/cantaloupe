@@ -1,0 +1,72 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.15   260 sp_Q8NI51_CTCFL_HUMAN -           1355  4.1e-101  337.5   0.0   1   1  5.1e-104  6.4e-101  336.9   0.0     1   260   833  1159   833  1159 0.99 Protein tyrosine kinase
+Pkinase              PF00069.23   264 sp_Q8NI51_CTCFL_HUMAN -           1355   3.6e-41  141.1   0.0   1   2   3.4e-12   4.3e-09   36.0   0.0     4    93   836   931   833   946 0.81 Protein kinase domain
+Pkinase              PF00069.23   264 sp_Q8NI51_CTCFL_HUMAN -           1355   3.6e-41  141.1   0.0   2   2   1.5e-32   1.9e-29  102.7   0.0    92   261   996  1158   973  1159 0.87 Protein kinase domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   1  12       2.1   2.6e+03   -1.0   0.1    14    23   256   265   247   268 0.72 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   2  12   4.6e-09   5.7e-06   26.4   6.0     2    26   272   296   271   296 0.94 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   3  12   7.3e-08   9.2e-05   22.6   0.2     2    26   300   324   300   324 0.96 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   4  12   6.6e-07   0.00083   19.6   4.0     2    24   328   351   327   352 0.90 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   5  12   3.3e-08   4.2e-05   23.7   2.6     2    23   357   378   356   380 0.93 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   6  12   1.3e-09   1.7e-06   28.1   5.2     2    25   385   408   384   409 0.95 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   7  12     0.012        15    6.1   1.3     5    21   416   434   413   435 0.77 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   8  12     0.079     1e+02    3.5   0.3     1    24   442   467   442   468 0.83 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8   9  12   5.2e-06    0.0065   16.7   6.3     2    25   473   496   472   497 0.91 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8  10  12   6.7e-09   8.4e-06   25.9   3.9     2    25   501   524   500   525 0.91 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8  11  12   2.1e-05     0.026   14.8   0.8     2    25   529   556   529   557 0.84 Zinc-finger double domain
+zf-H2C2_2            PF13465.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   3.7e-40  134.5 101.8  12  12       1.4   1.7e+03   -0.4   0.0    12    21   729   740   723   741 0.71 Zinc-finger double domain
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   1  11    0.0084        11    6.6   5.4     1    23   257   279   257   279 0.97 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   2  11   0.00056      0.71   10.3   4.6     3    23   287   307   285   307 0.96 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   3  11   7.6e-08   9.5e-05   22.5   0.8     1    23   313   336   313   336 0.97 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   4  11   0.00017      0.21   12.0   1.2     1    23   342   364   342   364 0.98 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   5  11   6.1e-05     0.077   13.4   5.7     1    23   370   392   370   392 0.99 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   6  11   3.9e-05     0.048   14.0   3.5     1    23   398   421   398   421 0.96 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   7  11   2.8e-06    0.0036   17.6   0.6     1    23   428   451   428   451 0.98 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   8  11   0.00013      0.16   12.3   1.7     2    23   459   480   458   480 0.97 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7   9  11   0.00017      0.22   11.9   8.3     1    23   486   508   486   508 0.99 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7  10  11   7.2e-05     0.091   13.1   5.4     1    23   514   537   514   537 0.97 Zinc finger, C2H2 type
+zf-C2H2              PF00096.24    23 sp_Q8NI51_CTCFL_HUMAN -           1355   1.5e-27   94.3 112.7  11  11     1e-06    0.0013   18.9   1.0     1    19   546   564   546   567 0.96 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   1  11   0.00057      0.71   10.7   3.7     1    23   257   279   257   280 0.89 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   2  11   0.00019      0.23   12.2   3.3     2    23   286   307   285   308 0.94 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   3  11   6.7e-05     0.084   13.6   0.5     1    24   313   336   313   336 0.96 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   4  11   0.00024       0.3   11.9   1.3     1    23   342   364   342   365 0.91 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   5  11     5e-05     0.063   14.0   4.3     1    23   370   392   370   393 0.84 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   6  11   0.00055      0.69   10.8   2.7     1    24   398   421   398   421 0.94 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   7  11   5.2e-05     0.066   13.9   0.4     1    24   428   451   428   451 0.96 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   8  11   8.3e-06      0.01   16.4   2.0     2    23   459   480   458   481 0.95 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8   9  11    0.0056         7    7.6   6.6     1    23   486   508   486   509 0.83 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8  10  11    0.0024         3    8.8   4.9     1    24   514   537   514   537 0.89 C2H2-type zinc finger
+zf-C2H2_4            PF13894.4     24 sp_Q8NI51_CTCFL_HUMAN -           1355   1.6e-20   71.9 106.8  11  11     0.001       1.3    9.9   2.9     1    21   546   566   546   568 0.92 C2H2-type zinc finger
+I-set                PF07679.14    90 sp_Q8NI51_CTCFL_HUMAN -           1355   3.1e-17   62.3   0.0   1   1     7e-20   8.8e-17   60.8   0.0     1    86   666   749   666   753 0.89 Immunoglobulin I-set domain
+Ig_3                 PF13927.4     79 sp_Q8NI51_CTCFL_HUMAN -           1355   1.7e-16   60.5   0.1   1   1   5.5e-19   6.9e-16   58.5   0.1     2    77   666   738   665   739 0.90 Immunoglobulin domain
+Ig_2                 PF13895.4     79 sp_Q8NI51_CTCFL_HUMAN -           1355   2.4e-12   46.9   0.6   1   2      0.62   7.8e+02    0.4   0.1    49    68   247   266   217   273 0.75 Immunoglobulin domain
+Ig_2                 PF13895.4     79 sp_Q8NI51_CTCFL_HUMAN -           1355   2.4e-12   46.9   0.6   2   2   3.2e-14     4e-11   43.0   0.1     2    64   666   739   665   747 0.82 Immunoglobulin domain
+ig                   PF00047.23    87 sp_Q8NI51_CTCFL_HUMAN -           1355   3.4e-11   43.0   0.6   1   1   7.1e-14   8.9e-11   41.7   0.1     5    74   674   738   672   748 0.95 Immunoglobulin domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   1  10    0.0013       1.7    8.4   5.0     1    25   257   280   257   281 0.94 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   2  10       0.3   3.8e+02    0.8   0.4    16    26   300   309   298   309 0.94 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   3  10     0.032        40    3.9   2.4     1    25   313   337   313   338 0.96 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   4  10   1.1e-07   0.00014   21.4   1.2     1    26   342   366   342   366 0.98 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   5  10   2.1e-07   0.00026   20.5   6.0     1    26   370   394   370   394 0.97 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   6  10      0.25   3.2e+02    1.1   0.1    12    25   409   422   408   423 0.86 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   7  10   0.00045      0.56    9.9   0.2     1    24   428   451   428   452 0.96 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   8  10      0.65   8.2e+02   -0.2   1.3     2    23   459   479   458   482 0.61 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4   9  10   9.4e-07    0.0012   18.4   7.1     1    26   486   510   486   510 0.98 C2H2-type zinc-finger domain
+zf-H2C2_5            PF13909.4     26 sp_Q8NI51_CTCFL_HUMAN -           1355   2.5e-07   30.2  29.4  10  10         6   7.5e+03   -3.3   0.5    15    21   560   566   560   567 0.86 C2H2-type zinc-finger domain
+V-set                PF07686.15   109 sp_Q8NI51_CTCFL_HUMAN -           1355   2.4e-05   24.3   0.8   1   2         1   1.3e+03   -0.6   0.1    42   104   212   276   194   279 0.63 Immunoglobulin V-set domain
+V-set                PF07686.15   109 sp_Q8NI51_CTCFL_HUMAN -           1355   2.4e-05   24.3   0.8   2   2   2.9e-05     0.036   14.1   0.0    70    92   716   738   671   749 0.70 Immunoglobulin V-set domain
+C2-set_2             PF08205.10    90 sp_Q8NI51_CTCFL_HUMAN -           1355   0.00014   21.7   1.1   1   2       5.2   6.6e+03   -2.9   0.1    28    47   114   132   112   147 0.69 CD80-like C2-set immunoglobulin domain
+C2-set_2             PF08205.10    90 sp_Q8NI51_CTCFL_HUMAN -           1355   0.00014   21.7   1.1   2   2   5.2e-07   0.00065   19.6   0.1     1    60   666   736   666   739 0.78 CD80-like C2-set immunoglobulin domain
+zf-RRN7              PF11781.6     32 sp_Q8NI51_CTCFL_HUMAN -           1355       1.1    8.8   5.3   1   3      0.43   5.4e+02    0.3   0.1    21    31   427   437   427   438 0.85 Zinc-finger of RNA-polymerase I-specific TFIIB, Rrn7
+zf-RRN7              PF11781.6     32 sp_Q8NI51_CTCFL_HUMAN -           1355       1.1    8.8   5.3   2   3       6.2   7.8e+03   -3.4   0.2     3    10   484   491   483   492 0.63 Zinc-finger of RNA-polymerase I-specific TFIIB, Rrn7
+zf-RRN7              PF11781.6     32 sp_Q8NI51_CTCFL_HUMAN -           1355       1.1    8.8   5.3   3   3   0.00048      0.61    9.7   0.1    13    27   724   739   716   742 0.83 Zinc-finger of RNA-polymerase I-specific TFIIB, Rrn7
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q8NI51_CTCFL_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:18:49 2016
+# [ok]

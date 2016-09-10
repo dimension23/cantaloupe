@@ -13,5 +13,5 @@ DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q8NG31_CASC5_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:09 2016
+# Date:            Sat Sep 10 08:16:43 2016
 # [ok]

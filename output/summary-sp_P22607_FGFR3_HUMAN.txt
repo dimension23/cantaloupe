@@ -41,5 +41,5 @@ V-set_CD47           PF08204.9    130 sp_P22607_FGFR3_HUMAN -            806    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P22607_FGFR3_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:35 2016
+# Date:            Sat Sep 10 08:19:02 2016
 # [ok]

@@ -40,5 +40,5 @@ Peptidase_S49_N      PF08496.8    153 sp_Q9Y6Q9_NCOA3_HUMAN -           1424    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9Y6Q9_NCOA3_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:27:07 2016
+# Date:            Sat Sep 10 08:15:06 2016
 # [ok]

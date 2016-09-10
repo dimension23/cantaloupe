@@ -31,5 +31,5 @@ EGF_3                PF12947.5     36 sp_Q02297_NRG1_HUMAN -            640     
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q02297_NRG1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:49 2016
+# Date:            Sat Sep 10 08:20:41 2016
 # [ok]

@@ -1,0 +1,43 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   1  16   2.5e-30   2.1e-26   92.2   0.0     2   106 12075 12182 12074 12182 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   2  16   2.1e-29   1.7e-25   89.2   0.0     2   106 12231 12338 12230 12338 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   3  16   6.2e-30   5.1e-26   90.9   0.0     2   106 12389 12496 12388 12496 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   4  16   3.1e-29   2.5e-25   88.7   0.0     3   106 12546 12652 12544 12652 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   5  16   1.1e-29   9.2e-26   90.1   0.0     2   106 12700 12807 12699 12807 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   6  16   5.1e-28   4.1e-24   84.8   0.0     2   106 12856 12963 12855 12963 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   7  16     3e-30   2.4e-26   91.9   0.0     2   106 13012 13119 13011 13119 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   8  16   4.1e-30   3.3e-26   91.5   0.0     2   106 13168 13275 13167 13275 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0   9  16   5.4e-31   4.4e-27   94.3   0.0     2   106 13324 13431 13323 13431 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  10  16   6.7e-32   5.4e-28   97.2   0.0     3   106 13481 13587 13479 13587 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  11  16   1.5e-31   1.2e-27   96.1   0.0     3   106 13637 13743 13635 13743 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  12  16   1.2e-27   9.7e-24   83.6   0.0     3   106 13793 13898 13791 13898 0.98 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  13  16   1.2e-25   9.5e-22   77.2   0.0     2   106 13925 14032 13924 14032 0.97 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  14  16   1.3e-26     1e-22   80.2   0.0     2   106 14076 14182 14075 14182 0.96 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  15  16   7.4e-09     6e-05   23.1   0.5     3    82 14202 14275 14201 14290 0.88 SEA domain
+SEA                  PF01390.18   106 sp_Q8WXI7_MUC16_HUMAN -          14507         0 1375.8   0.0  16  16   4.1e-26   3.3e-22   78.6   1.2     1   106 14321 14427 14321 14427 0.97 SEA domain
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   1  14     0.027   2.2e+02    1.9   0.0    58    74 12176 12192 12173 12194 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   2  14     0.027   2.2e+02    1.9   0.0    58    74 12332 12348 12329 12351 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   3  14     0.028   2.3e+02    1.8   0.0    58    74 12490 12506 12487 12508 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   4  14     0.027   2.2e+02    1.9   0.0    58    74 12646 12662 12643 12664 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   5  14     0.028   2.3e+02    1.9   0.0    58    74 12801 12817 12798 12819 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   6  14     0.027   2.2e+02    1.9   0.0    58    74 12957 12973 12951 12975 0.90 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   7  14     0.028   2.3e+02    1.9   0.0    58    74 13113 13129 13109 13131 0.90 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   8  14     0.031   2.5e+02    1.7   0.0    58    74 13269 13285 13261 13288 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0   9  14     0.054   4.4e+02    0.9   0.0    58    74 13425 13441 13422 13444 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0  10  14     0.031   2.5e+02    1.7   0.0    58    74 13581 13597 13573 13600 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0  11  14       1.8   1.5e+04   -4.0   0.0    58    73 13737 13752 13736 13753 0.89 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0  12  14     0.034   2.8e+02    1.6   0.0    57    74 13891 13908 13877 13910 0.83 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0  13  14      0.97   7.9e+03   -3.1   0.0    59    74 14027 14042 14025 14043 0.90 Helix-destabilising protein
+Phage_DNA_bind       PF02303.15    83 sp_Q8WXI7_MUC16_HUMAN -          14507   1.1e-05   25.3  16.0  14  14       0.5   4.1e+03   -2.2   0.0    58    74 14176 14192 14174 14199 0.82 Helix-destabilising protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P09619_PGFRB_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:17:03 2016
+# [ok]

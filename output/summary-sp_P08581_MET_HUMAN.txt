@@ -21,5 +21,5 @@ PSI_integrin         PF17205.1     48 sp_P08581_MET_HUMAN  -           1390     
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P08581_MET_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:29 2016
+# Date:            Sat Sep 10 08:18:25 2016
 # [ok]

@@ -1,38 +1,8 @@
 #                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
 # target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
 #------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   1   7   1.2e-06    0.0024   18.5   0.0     4    38     8    44     5    44 0.87 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   2   7   4.4e-12     9e-09   35.7   0.6     3    38    55    91    53    91 0.93 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   3   7   3.3e-12   6.7e-09   36.1   0.2     3    38    97   133    95   133 0.93 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   4   7   1.7e-08   3.5e-05   24.3   1.0     9    38   146   178   136   178 0.83 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   5   7   2.3e-08   4.7e-05   23.9   0.2     7    38   188   220   182   220 0.86 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   6   7   5.5e-08   0.00011   22.8   0.1     2    38   225   260   224   260 0.87 WD domain, G-beta repeat
-WD40                 PF00400.30    38 sp_P63244_RACK1_HUMAN -            317   6.5e-50  165.9  25.3   7   7   1.3e-06    0.0027   18.4   0.0    13    37   286   310   273   311 0.90 WD domain, G-beta repeat
-ANAPC4_WD40          PF12894.5     92 sp_P63244_RACK1_HUMAN -            317   8.6e-11   41.9   0.8   1   4    0.0011       2.2    8.5   0.1    37    90    62   114    28   159 0.80 Anaphase-promoting complex subunit 4 WD40 domain
-ANAPC4_WD40          PF12894.5     92 sp_P63244_RACK1_HUMAN -            317   8.6e-11   41.9   0.8   2   4   0.00075       1.5    9.0   0.0    35    78   189   232   170   244 0.76 Anaphase-promoting complex subunit 4 WD40 domain
-ANAPC4_WD40          PF12894.5     92 sp_P63244_RACK1_HUMAN -            317   8.6e-11   41.9   0.8   3   4      0.23   4.7e+02    1.0   0.0    39    76   234   270   229   273 0.78 Anaphase-promoting complex subunit 4 WD40 domain
-ANAPC4_WD40          PF12894.5     92 sp_P63244_RACK1_HUMAN -            317   8.6e-11   41.9   0.8   4   4   1.5e-06     0.003   17.7   0.0    27    68   272   313   256   316 0.84 Anaphase-promoting complex subunit 4 WD40 domain
-eIF2A                PF08662.9    194 sp_P63244_RACK1_HUMAN -            317   2.9e-05   23.9   0.3   1   3    0.0057        12    5.6   0.1    63   137   109   184    80   188 0.72 Eukaryotic translation initiation factor eIF2A
-eIF2A                PF08662.9    194 sp_P63244_RACK1_HUMAN -            317   2.9e-05   23.9   0.3   2   3   2.3e-06    0.0047   16.7   0.0    61   191   150   274   136   277 0.82 Eukaryotic translation initiation factor eIF2A
-eIF2A                PF08662.9    194 sp_P63244_RACK1_HUMAN -            317   2.9e-05   23.9   0.3   3   3   0.00048      0.98    9.1   0.0   103   164   236   304   216   314 0.65 Eukaryotic translation initiation factor eIF2A
-Ge1_WD40             PF16529.3    328 sp_P63244_RACK1_HUMAN -            317     6e-05   22.0   0.1   1   4     0.017        35    3.1   0.0   183   216    59    93    32   104 0.80 WD40 region of Ge1, enhancer of mRNA-decapping protein
-Ge1_WD40             PF16529.3    328 sp_P63244_RACK1_HUMAN -            317     6e-05   22.0   0.1   2   4      0.06   1.2e+02    1.3   0.0   186   214   105   133    97   150 0.83 WD40 region of Ge1, enhancer of mRNA-decapping protein
-Ge1_WD40             PF16529.3    328 sp_P63244_RACK1_HUMAN -            317     6e-05   22.0   0.1   3   4     0.013        27    3.4   0.0   183   215   189   221   172   227 0.82 WD40 region of Ge1, enhancer of mRNA-decapping protein
-Ge1_WD40             PF16529.3    328 sp_P63244_RACK1_HUMAN -            317     6e-05   22.0   0.1   4   4   0.00032      0.64    8.8   0.0   170   217   264   314   255   317 0.82 WD40 region of Ge1, enhancer of mRNA-decapping protein
-Cytochrom_D1         PF02239.14   368 sp_P63244_RACK1_HUMAN -            317    0.0047   15.4   0.0   1   2     1e-05     0.021   13.2   0.1    40    95    68   124    50   240 0.72 Cytochrome D1 heme domain
-Cytochrom_D1         PF02239.14   368 sp_P63244_RACK1_HUMAN -            317    0.0047   15.4   0.0   2   2     0.095   1.9e+02    0.2   0.0    18    76   217   273   203   296 0.77 Cytochrome D1 heme domain
-WD40_like            PF17005.3    301 sp_P63244_RACK1_HUMAN -            317     0.006   15.8   0.0   1   2    0.0012       2.4    7.2   0.0     6    89    69   155    66   166 0.82 WD40-like domain
-WD40_like            PF17005.3    301 sp_P63244_RACK1_HUMAN -            317     0.006   15.8   0.0   2   2    0.0023       4.7    6.3   0.0     5    40   197   232   194   281 0.71 WD40-like domain
-Nup160               PF11715.6    539 sp_P63244_RACK1_HUMAN -            317    0.0063   15.1  10.8   1   5      0.25   5.1e+02   -1.2   0.0   230   249    27    46    17    52 0.78 Nucleoporin Nup120/160
-Nup160               PF11715.6    539 sp_P63244_RACK1_HUMAN -            317    0.0063   15.1  10.8   2   5   5.9e-05      0.12   10.8   0.1   221   255    64    99    56   107 0.86 Nucleoporin Nup120/160
-Nup160               PF11715.6    539 sp_P63244_RACK1_HUMAN -            317    0.0063   15.1  10.8   3   5    0.0057        12    4.3   0.2   224   252   111   138   102   161 0.80 Nucleoporin Nup120/160
-Nup160               PF11715.6    539 sp_P63244_RACK1_HUMAN -            317    0.0063   15.1  10.8   4   5    0.0089        18    3.6   0.1   231   290   162   226   139   244 0.73 Nucleoporin Nup120/160
-Nup160               PF11715.6    539 sp_P63244_RACK1_HUMAN -            317    0.0063   15.1  10.8   5   5      0.26   5.3e+02   -1.2   0.1   230   248   294   312   284   315 0.81 Nucleoporin Nup120/160
-PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317      0.17   11.7   3.1   1   5      0.23   4.7e+02    0.8   0.0    24    36    70    89    69    90 0.74 WD40-like Beta Propeller Repeat
-PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317      0.17   11.7   3.1   2   5      0.69   1.4e+03   -0.8   0.0    15    23   112   120   110   132 0.61 WD40-like Beta Propeller Repeat
-PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317      0.17   11.7   3.1   3   5         5     1e+04   -3.5   0.0    13    19   153   159   149   161 0.79 WD40-like Beta Propeller Repeat
-PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317      0.17   11.7   3.1   4   5      0.13   2.7e+02    1.6   0.0    14    21   198   205   191   206 0.78 WD40-like Beta Propeller Repeat
-PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317      0.17   11.7   3.1   5   5    0.0076        15    5.5   0.0    15    23   290   298   287   299 0.86 WD40-like Beta Propeller Repeat
+Lge1                 PF11488.6     72 sp_Q8NEY8_PPHLN_HUMAN -            458   3.5e-15   56.2   0.2   1   1   9.7e-19   7.9e-15   55.1   0.2     4    64   279   343   261   345 0.92 Transcriptional regulatory protein LGE1
+HERV-K_REC           PF15695.3     87 sp_Q8NEY8_PPHLN_HUMAN -            458   0.00023   21.0   0.1   1   1   5.8e-08   0.00047   20.0   0.1    21    68   399   446   390   456 0.87 Rec (regulator of expression encoded by corf) of HERV-K-113
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -41,5 +11,5 @@ PD40                 PF07676.10    38 sp_P63244_RACK1_HUMAN -            317    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P63244_RACK1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:52 2016
+# Date:            Sat Sep 10 08:21:44 2016
 # [ok]

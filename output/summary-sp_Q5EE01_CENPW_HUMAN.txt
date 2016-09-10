@@ -1,0 +1,15 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+CENP-W               PF15510.4     88 sp_Q5EE01_CENPW_HUMAN -             88   1.4e-49  166.1   5.7   1   1   1.9e-53   1.6e-49  166.0   5.7     1    88     1    88     1    88 1.00 CENP-W protein
+CBFD_NFYB_HMF        PF00808.21    65 sp_Q5EE01_CENPW_HUMAN -             88   0.00081   19.5   0.1   1   1   1.3e-07    0.0011   19.1   0.1     4    64    18    78     9    79 0.93 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q5EE01_CENPW_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:22:33 2016
+# [ok]

@@ -1,0 +1,37 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+VWA                  PF00092.26   175 sp_Q5GFL6_VWA2_HUMAN -            755   8.1e-95  315.9   0.0   1   3   9.5e-40   1.5e-36  126.1   0.0     1   167    51   212    51   221 0.93 von Willebrand factor type A domain
+VWA                  PF00092.26   175 sp_Q5GFL6_VWA2_HUMAN -            755   8.1e-95  315.9   0.0   2   3   8.1e-25   1.3e-21   77.5   0.0     1   172   343   506   343   512 0.91 von Willebrand factor type A domain
+VWA                  PF00092.26   175 sp_Q5GFL6_VWA2_HUMAN -            755   8.1e-95  315.9   0.0   3   3   1.8e-34     3e-31  108.9   0.0     1   156   531   683   531   698 0.95 von Willebrand factor type A domain
+VWA_2                PF13519.4    107 sp_Q5GFL6_VWA2_HUMAN -            755   1.3e-37  128.6   0.0   1   3   3.6e-18   5.8e-15   55.7   0.0     1   107    52   161    52   161 0.91 von Willebrand factor type A domain
+VWA_2                PF13519.4    107 sp_Q5GFL6_VWA2_HUMAN -            755   1.3e-37  128.6   0.0   2   3   3.8e-09   6.3e-06   26.7   0.0     1   104   344   453   344   456 0.79 von Willebrand factor type A domain
+VWA_2                PF13519.4    107 sp_Q5GFL6_VWA2_HUMAN -            755   1.3e-37  128.6   0.0   3   3     6e-14   9.8e-11   42.1   0.0     1   106   532   642   532   643 0.82 von Willebrand factor type A domain
+EGF                  PF00008.25    32 sp_Q5GFL6_VWA2_HUMAN -            755   1.1e-12   47.8  22.0   1   2   2.8e-10   4.6e-07   29.9   7.2     1    26   299   324   299   329 0.92 EGF-like domain
+EGF                  PF00008.25    32 sp_Q5GFL6_VWA2_HUMAN -            755   1.1e-12   47.8  22.0   2   2   3.7e-08     6e-05   23.1   6.8     1    32   716   746   716   746 0.92 EGF-like domain
+hEGF                 PF12661.5     22 sp_Q5GFL6_VWA2_HUMAN -            755   2.1e-08   34.4  17.1   1   2   1.2e-07   0.00019   21.8   5.3     1    19   304   323   304   324 0.98 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q5GFL6_VWA2_HUMAN -            755   2.1e-08   34.4  17.1   2   2   2.8e-06    0.0046   17.5   4.0     1    22   721   742   721   742 0.96 Human growth factor-like EGF
+EGF_2                PF07974.11    32 sp_Q5GFL6_VWA2_HUMAN -            755   2.1e-05   24.6  26.8   1   2    0.0012         2    8.7   8.9     1    24   295   323   295   330 0.80 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q5GFL6_VWA2_HUMAN -            755   2.1e-05   24.6  26.8   2   2   1.5e-07   0.00025   21.2   9.9     1    32   716   747   716   747 0.91 EGF-like domain
+DJ-1_PfpI            PF01965.22   165 sp_Q5GFL6_VWA2_HUMAN -            755    0.0011   18.7   0.0   1   3    0.0015       2.5    7.8   0.0     2    60   152   217   151   222 0.89 DJ-1/PfpI family
+DJ-1_PfpI            PF01965.22   165 sp_Q5GFL6_VWA2_HUMAN -            755    0.0011   18.7   0.0   2   3      0.16   2.5e+02    1.2   0.0     1    46   446   496   446   504 0.76 DJ-1/PfpI family
+DJ-1_PfpI            PF01965.22   165 sp_Q5GFL6_VWA2_HUMAN -            755    0.0011   18.7   0.0   3   3    0.0078        13    5.4   0.0     3    37   635   675   633   702 0.70 DJ-1/PfpI family
+EGF_CA               PF07645.13    42 sp_Q5GFL6_VWA2_HUMAN -            755    0.0015   18.6   7.0   1   3       7.3   1.2e+04   -3.5   1.0     5    13   235   243   228   246 0.62 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q5GFL6_VWA2_HUMAN -            755    0.0015   18.6   7.0   2   3     0.087   1.4e+02    2.6   5.0     7    34   301   327   297   334 0.75 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q5GFL6_VWA2_HUMAN -            755    0.0015   18.6   7.0   3   3   9.1e-07    0.0015   18.6   7.0    10    35   719   745   713   750 0.82 Calcium-binding EGF domain
+Sec23_trunk          PF04811.13   243 sp_Q5GFL6_VWA2_HUMAN -            755      0.17   11.3   0.0   1   2      0.31   5.1e+02   -0.1   0.0     7    51   345   389   344   393 0.68 Sec23/Sec24 trunk domain
+Sec23_trunk          PF04811.13   243 sp_Q5GFL6_VWA2_HUMAN -            755      0.17   11.3   0.0   2   2   0.00081       1.3    8.4   0.0     7    61   533   588   527   600 0.80 Sec23/Sec24 trunk domain
+YjeF_N               PF03853.13   171 sp_Q5GFL6_VWA2_HUMAN -            755       0.2   11.4   1.0   1   2      0.12     2e+02    1.6   0.0    22    66   146   189   120   212 0.78 YjeF-related protein N-terminus
+YjeF_N               PF03853.13   171 sp_Q5GFL6_VWA2_HUMAN -            755       0.2   11.4   1.0   2   2    0.0017       2.8    7.7   0.5     8    62   610   668   607   679 0.77 YjeF-related protein N-terminus
+SLR1-BP              PF07333.10    58 sp_Q5GFL6_VWA2_HUMAN -            755       8.5    6.8  16.6   1   2   0.00016      0.26   11.6   4.9    14    54   283   322   280   324 0.92 S locus-related glycoprotein 1 binding pollen coat protein (SLR1-BP)
+SLR1-BP              PF07333.10    58 sp_Q5GFL6_VWA2_HUMAN -            755       8.5    6.8  16.6   2   2      0.63     1e+03    0.1   3.9    27    55   713   739   699   740 0.82 S locus-related glycoprotein 1 binding pollen coat protein (SLR1-BP)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q5GFL6_VWA2_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:23:14 2016
+# [ok]

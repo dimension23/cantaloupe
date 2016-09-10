@@ -1,14 +1,11 @@
-#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
-# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
-#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-TACC                 PF05010.12   201 sp_O75410_TACC1_HUMAN -            805   1.1e-80  270.0  34.4   1   1   6.5e-84   1.8e-80  269.4  34.4     2   201   599   798   598   798 0.99 Transforming acidic coiled-coil-containing protein (TACC)
-Takusan              PF04822.11    85 sp_O75410_TACC1_HUMAN -            805         1    9.2  11.1   1   2    0.0025       6.7    6.5   3.4    34    82   636   689   616   692 0.67 Takusan
-Takusan              PF04822.11    85 sp_O75410_TACC1_HUMAN -            805         1    9.2  11.1   2   2    0.0031       8.4    6.2   0.9    13    39   767   793   757   800 0.86 Takusan
-Bul1_C               PF04426.10   272 sp_O75410_TACC1_HUMAN -            805       1.2    8.4  10.7   1   1   0.00094       2.5    7.3  10.7    52   203   596   761   594   794 0.66 Bul1 C terminus
-PI3K_P85_iSH2        PF16454.3    161 sp_O75410_TACC1_HUMAN -            805       1.3    8.4  28.8   1   1    0.0055        15    5.0  28.8    22   148   610   803   602   805 0.92 Phosphatidylinositol 3-kinase regulatory subunit P85 inter-SH2 domain
-GAS                  PF13851.4    200 sp_O75410_TACC1_HUMAN -            805       2.6    7.2  32.9   1   1    0.0074        20    4.3  32.6    32   200   611   790   607   790 0.54 Growth-arrest specific micro-tubule binding
-Methyltrn_RNA_4      PF09936.7    182 sp_O75410_TACC1_HUMAN -            805       9.2    5.9  10.7   1   2    0.0039        11    5.7   0.9    65   108   622   665   610   690 0.78 SAM-dependent RNA methyltransferase
-Methyltrn_RNA_4      PF09936.7    182 sp_O75410_TACC1_HUMAN -            805       9.2    5.9  10.7   2   2    0.0096        26    4.5   3.0    70   132   724   786   703   788 0.85 SAM-dependent RNA methyltransferase
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCR                  PF02155.13   374 sp_P04150_GCR_HUMAN  -            806  9.1e-187  620.5   9.5   1   1  2.9e-190  1.2e-186  620.1   9.5     1   374    26   401    26   401 0.99 Glucocorticoid receptor
+Hormone_recep        PF00104.28   208 sp_P04150_GCR_HUMAN  -            806   7.3e-31  107.2   6.2   1   2     0.098     4e+02    0.3   0.0    59   103   297   345   278   354 0.73 Ligand-binding domain of nuclear hormone receptor
+Hormone_recep        PF00104.28   208 sp_P04150_GCR_HUMAN  -            806   7.3e-31  107.2   6.2   2   2   5.5e-34   2.2e-30  105.6   4.7     6   203   553   737   549   741 0.91 Ligand-binding domain of nuclear hormone receptor
+zf-C4                PF00105.16    70 sp_P04150_GCR_HUMAN  -            806   2.8e-28   98.0  13.0   1   1   1.3e-31   5.4e-28   97.1  13.0     2    69   420   487   419   488 0.98 Zinc finger, C4 type (two domains)
+TACC                 PF05010.12   201 sp_P04150_GCR_HUMAN  -            806   1.3e-05   24.9   2.5   1   1   6.6e-09   2.7e-05   23.9   2.5   180   201   778   799   770   799 0.93 Transforming acidic coiled-coil-containing protein (TACC)
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -17,5 +14,5 @@ Methyltrn_RNA_4      PF09936.7    182 sp_O75410_TACC1_HUMAN -            805    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_O75410_TACC1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:33 2016
+# Date:            Sat Sep 10 08:17:06 2016
 # [ok]

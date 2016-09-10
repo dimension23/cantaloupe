@@ -1,59 +1,53 @@
-#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
-# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
-#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-Arm_APC_u3           PF16629.3    293 sp_P25054_APC_HUMAN  -           2843  2.7e-169  562.1  21.7   1   4       0.7   7.1e+02   -0.6   0.5   138   215   173   251   147   262 0.77 Armadillo-associated region on APC
-Arm_APC_u3           PF16629.3    293 sp_P25054_APC_HUMAN  -           2843  2.7e-169  562.1  21.7   2   4  2.6e-172  2.7e-169  562.1  21.7     1   293   732  1019   732  1019 1.00 Armadillo-associated region on APC
-Arm_APC_u3           PF16629.3    293 sp_P25054_APC_HUMAN  -           2843  2.7e-169  562.1  21.7   3   4       8.6   8.7e+03   -4.1   1.3   111   138  1207  1233  1157  1289 0.61 Armadillo-associated region on APC
-Arm_APC_u3           PF16629.3    293 sp_P25054_APC_HUMAN  -           2843  2.7e-169  562.1  21.7   4   4       3.5   3.5e+03   -2.9   2.2   208   221  2594  2607  2532  2758 0.56 Armadillo-associated region on APC
-APC_basic            PF05956.9    342 sp_P25054_APC_HUMAN  -           2843  4.2e-113  378.2  69.6   1   3       9.1   9.3e+03   -4.4   1.3   231   251   283   303   236   312 0.56 APC basic domain
-APC_basic            PF05956.9    342 sp_P25054_APC_HUMAN  -           2843  4.2e-113  378.2  69.6   2   3       4.3   4.4e+03   -3.3   6.5   121   168  1749  1795  1725  1829 0.60 APC basic domain
-APC_basic            PF05956.9    342 sp_P25054_APC_HUMAN  -           2843  4.2e-113  378.2  69.6   3   3  4.1e-116  4.2e-113  378.2  69.6     2   342  2224  2575  2223  2575 0.98 APC basic domain
-EB1_binding          PF05937.9    174 sp_P25054_APC_HUMAN  -           2843   6.3e-95  316.6  26.6   1   2       3.9     4e+03   -1.9   1.5   118   153  2521  2556  2491  2578 0.75 EB-1 Binding Domain
-EB1_binding          PF05937.9    174 sp_P25054_APC_HUMAN  -           2843   6.3e-95  316.6  26.6   2   2   6.2e-98   6.3e-95  316.6  26.6     1   174  2670  2843  2670  2843 1.00 EB-1 Binding Domain
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   1   8      0.74   7.5e+02   -0.1   0.0    10    16  1022  1028  1020  1029 0.86 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   2   8   1.5e-14   1.6e-11   43.5   1.6     3    24  1259  1280  1257  1280 0.94 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   3   8   8.6e-10   8.7e-07   28.4   0.7     2    24  1372  1393  1371  1393 0.94 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   4   8   1.2e-08   1.2e-05   24.8   3.1     1    24  1486  1509  1486  1509 0.97 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   5   8   2.7e-14   2.8e-11   42.7   0.1     1    24  1637  1660  1637  1660 0.97 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   6   8   7.3e-14   7.4e-11   41.4   0.8     1    24  1841  1865  1841  1865 0.99 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   7   8   1.5e-12   1.6e-09   37.1   0.2     2    24  1950  1972  1949  1972 0.95 APC repeat
-APC_r                PF05923.10    24 sp_P25054_APC_HUMAN  -           2843   5.3e-71  233.0  46.1   8   8   1.8e-13   1.8e-10   40.1   1.4     2    24  2008  2030  2008  2030 0.97 APC repeat
-APC_u5               PF16630.3    100 sp_P25054_APC_HUMAN  -           2843   2.7e-53  179.0   6.6   1   1   2.6e-56   2.7e-53  179.0   6.6     1   100  1036  1135  1036  1135 1.00 Unstructured region on APC between 1st and 2nd catenin-bdg motifs
-APC_u14              PF16635.3     94 sp_P25054_APC_HUMAN  -           2843   7.3e-42  141.7  11.0   1   3   7.2e-45   7.3e-42  141.7  11.0     1    94  1746  1839  1746  1839 0.99 Unstructured region on APC between SAMP and APC_crr
-APC_u14              PF16635.3     94 sp_P25054_APC_HUMAN  -           2843   7.3e-42  141.7  11.0   2   3       7.3   7.4e+03   -2.6   4.6     4    53  2344  2393  2341  2432 0.64 Unstructured region on APC between SAMP and APC_crr
-APC_u14              PF16635.3     94 sp_P25054_APC_HUMAN  -           2843   7.3e-42  141.7  11.0   3   3       2.8   2.9e+03   -1.3   0.3    49    78  2796  2825  2783  2838 0.71 Unstructured region on APC between SAMP and APC_crr
-APC_u15              PF16636.3     81 sp_P25054_APC_HUMAN  -           2843   4.5e-38  129.4   7.2   1   4       4.4   4.4e+03   -2.0   4.1    16    63  1733  1782  1729  1797 0.79 Unstructured region on APC between APC_crr regions 5 and 6
-APC_u15              PF16636.3     81 sp_P25054_APC_HUMAN  -           2843   4.5e-38  129.4   7.2   2   4         6   6.1e+03   -2.4   0.1    21    48  1790  1817  1783  1822 0.75 Unstructured region on APC between APC_crr regions 5 and 6
-APC_u15              PF16636.3     81 sp_P25054_APC_HUMAN  -           2843   4.5e-38  129.4   7.2   3   4   4.5e-41   4.5e-38  129.4   7.2     1    81  1867  1947  1867  1947 1.00 Unstructured region on APC between APC_crr regions 5 and 6
-APC_u15              PF16636.3     81 sp_P25054_APC_HUMAN  -           2843   4.5e-38  129.4   7.2   4   4       6.5   6.6e+03   -2.5   2.4    27    38  2598  2609  2578  2653 0.50 Unstructured region on APC between APC_crr regions 5 and 6
-APC_u9               PF16633.3     88 sp_P25054_APC_HUMAN  -           2843   1.1e-35  122.5   8.4   1   1   1.1e-38   1.1e-35  122.5   8.4     1    88  1282  1368  1282  1368 0.99 Unstructured region on APC between 1st two creatine-rich regions
-APC_N_CC             PF16689.3     52 sp_P25054_APC_HUMAN  -           2843   1.6e-28   98.3   7.3   1   2   1.6e-31   1.6e-28   98.3   7.3     1    52     4    55     4    55 0.99 Coiled-coil N-terminus of APC, dimerisation domain
-APC_N_CC             PF16689.3     52 sp_P25054_APC_HUMAN  -           2843   1.6e-28   98.3   7.3   2   2       5.2   5.3e+03   -2.5   0.2     7    27   639   659   638   665 0.88 Coiled-coil N-terminus of APC, dimerisation domain
-SAMP                 PF05924.9     22 sp_P25054_APC_HUMAN  -           2843   1.8e-28   96.8  15.8   1   3   1.1e-11   1.1e-08   33.9   2.6     1    22  1567  1588  1567  1588 0.96 SAMP Motif
-SAMP                 PF05924.9     22 sp_P25054_APC_HUMAN  -           2843   1.8e-28   96.8  15.8   2   3   5.3e-11   5.4e-08   31.7   0.1     2    22  1717  1737  1716  1737 0.90 SAMP Motif
-SAMP                 PF05924.9     22 sp_P25054_APC_HUMAN  -           2843   1.8e-28   96.8  15.8   3   3   5.1e-13   5.1e-10   38.1   1.7     1    21  2031  2051  2031  2052 0.94 SAMP Motif
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   1   6   0.00015      0.15   12.0   0.2     5    29   344   369   340   370 0.84 Armadillo/beta-catenin-like repeat
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   2   6      0.27   2.7e+02    1.7   0.0     2    26   460   484   459   486 0.86 Armadillo/beta-catenin-like repeat
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   3   6   1.7e-07   0.00018   21.3   0.2     7    40   518   552   512   553 0.87 Armadillo/beta-catenin-like repeat
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   4   6     5e-05     0.051   13.5   0.1     5    41   560   597   556   597 0.94 Armadillo/beta-catenin-like repeat
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   5   6   1.6e-10   1.6e-07   30.9   0.5     1    41   649   689   649   689 0.96 Armadillo/beta-catenin-like repeat
-Arm                  PF00514.21    41 sp_P25054_APC_HUMAN  -           2843   4.2e-27   93.2  15.1   6   6   1.4e-06    0.0014   18.5   0.0     1    40   691   730   691   731 0.93 Armadillo/beta-catenin-like repeat
-APC_u13              PF16634.3     54 sp_P25054_APC_HUMAN  -           2843   7.9e-26   89.6   1.7   1   2   7.8e-29   7.9e-26   89.6   1.7     1    54  1662  1715  1662  1715 0.99 Unstructured region on APC between APC_crr and SAMP
-APC_u13              PF16634.3     54 sp_P25054_APC_HUMAN  -           2843   7.9e-26   89.6   1.7   2   2       4.2   4.3e+03   -2.4   0.5     3    15  2337  2349  2337  2356 0.77 Unstructured region on APC between APC_crr and SAMP
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   1   6   6.1e-08   6.2e-05   22.9   0.8     1    15  1020  1034  1020  1034 0.96 APC 15 residue motif
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   2   6   7.7e-07   0.00079   19.4   3.5     1    15  1136  1150  1136  1150 0.96 APC 15 residue motif
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   3   6   8.6e-08   8.8e-05   22.4   1.6     1    15  1155  1169  1155  1169 0.96 APC 15 residue motif
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   4   6     1e-08     1e-05   25.3   0.1     1    15  1172  1186  1172  1186 0.95 APC 15 residue motif
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   5   6       9.8   9.9e+03   -2.9   0.0     2     9  1265  1272  1265  1273 0.85 APC 15 residue motif
-APC_15aa             PF05972.9     15 sp_P25054_APC_HUMAN  -           2843   2.4e-22   77.6  26.2   6   6       1.8   1.8e+03   -0.6   0.0     4     9  1647  1652  1645  1653 0.87 APC 15 residue motif
-Suppressor_APC       PF11414.6     82 sp_P25054_APC_HUMAN  -           2843   1.4e-20   73.0   3.4   1   3      0.85   8.7e+02   -0.0   1.1     4    23     9    28     7    53 0.92 Adenomatous polyposis coli tumour suppressor protein
-Suppressor_APC       PF11414.6     82 sp_P25054_APC_HUMAN  -           2843   1.4e-20   73.0   3.4   2   3   1.4e-23   1.4e-20   73.0   3.4     5    81   131   206   127   207 0.95 Adenomatous polyposis coli tumour suppressor protein
-Suppressor_APC       PF11414.6     82 sp_P25054_APC_HUMAN  -           2843   1.4e-20   73.0   3.4   3   3         4   4.1e+03   -2.2   0.0    63    80   879   896   876   897 0.84 Adenomatous polyposis coli tumour suppressor protein
-JIP_LZII             PF16471.3     71 sp_P25054_APC_HUMAN  -           2843      0.37   10.9  10.1   1   2   6.1e-05     0.062   13.3   3.3    29    71     7    49     4    49 0.95 JNK-interacting protein  leucine zipper II
-JIP_LZII             PF16471.3     71 sp_P25054_APC_HUMAN  -           2843      0.37   10.9  10.1   2   2       2.1   2.2e+03   -1.2   0.6    35    67   134   166   133   170 0.88 JNK-interacting protein  leucine zipper II
-Baculo_PEP_C         PF04513.10   140 sp_P25054_APC_HUMAN  -           2843       6.6    6.6   8.5   1   3     0.014        14    5.6   0.8    69   116     6    56     2    72 0.77 Baculovirus polyhedron envelope protein, PEP, C terminus
-Baculo_PEP_C         PF04513.10   140 sp_P25054_APC_HUMAN  -           2843       6.6    6.6   8.5   2   3         1     1e+03   -0.5   0.1    32    55   529   552   507   624 0.57 Baculovirus polyhedron envelope protein, PEP, C terminus
-Baculo_PEP_C         PF04513.10   140 sp_P25054_APC_HUMAN  -           2843       6.6    6.6   8.5   3   3     0.077        78    3.2   0.2     3    21  2400  2419  2398  2422 0.90 Baculovirus polyhedron envelope protein, PEP, C terminus
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Arm_APC_u3           PF16629.3    293 sp_P43360_MAGA6_HUMAN -           2840  2.6e-169  562.1  21.7   1   3  2.3e-172  2.6e-169  562.1  21.7     1   293   729  1016   729  1016 1.00 Armadillo-associated region on APC
+Arm_APC_u3           PF16629.3    293 sp_P43360_MAGA6_HUMAN -           2840  2.6e-169  562.1  21.7   2   3       7.5   8.7e+03   -4.1   1.3   111   138  1204  1230  1154  1286 0.61 Armadillo-associated region on APC
+Arm_APC_u3           PF16629.3    293 sp_P43360_MAGA6_HUMAN -           2840  2.6e-169  562.1  21.7   3   3       7.8   9.1e+03   -4.2   3.6   208   221  2591  2604  2534  2755 0.55 Armadillo-associated region on APC
+APC_basic            PF05956.9    342 sp_P43360_MAGA6_HUMAN -           2840  4.2e-113  378.2  69.6   1   2       3.8   4.4e+03   -3.3   6.5   121   168  1746  1792  1722  1826 0.60 APC basic domain
+APC_basic            PF05956.9    342 sp_P43360_MAGA6_HUMAN -           2840  4.2e-113  378.2  69.6   2   2  3.6e-116  4.2e-113  378.2  69.6     2   342  2221  2572  2220  2572 0.98 APC basic domain
+EB1_binding          PF05937.9    174 sp_P43360_MAGA6_HUMAN -           2840   6.3e-95  316.6  26.6   1   3       8.8     1e+04   -3.2   0.9    18    37  1798  1817  1755  1842 0.67 EB-1 Binding Domain
+EB1_binding          PF05937.9    174 sp_P43360_MAGA6_HUMAN -           2840   6.3e-95  316.6  26.6   2   3       3.6   4.1e+03   -1.9   1.5   118   153  2518  2553  2488  2575 0.75 EB-1 Binding Domain
+EB1_binding          PF05937.9    174 sp_P43360_MAGA6_HUMAN -           2840   6.3e-95  316.6  26.6   3   3   5.4e-98   6.3e-95  316.6  26.6     1   174  2667  2840  2667  2840 1.00 EB-1 Binding Domain
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   1   9       2.7   3.1e+03   -2.0   0.0    12    19   148   155   148   155 0.94 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   2   9      0.65   7.5e+02   -0.1   0.0    10    16  1019  1025  1017  1026 0.86 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   3   9   1.3e-14   1.6e-11   43.5   1.6     3    24  1256  1277  1254  1277 0.94 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   4   9   7.5e-10   8.7e-07   28.4   0.7     2    24  1369  1390  1368  1390 0.94 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   5   9     1e-08   1.2e-05   24.8   3.1     1    24  1483  1506  1483  1506 0.97 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   6   9   2.4e-14   2.8e-11   42.7   0.1     1    24  1634  1657  1634  1657 0.97 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   7   9   6.3e-14   7.4e-11   41.4   0.8     1    24  1838  1862  1838  1862 0.99 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   8   9   1.3e-12   1.6e-09   37.1   0.2     2    24  1947  1969  1946  1969 0.95 APC repeat
+APC_r                PF05923.10    24 sp_P43360_MAGA6_HUMAN -           2840   1.3e-70  231.7  48.2   9   9   1.6e-13   1.8e-10   40.1   1.4     2    24  2005  2027  2005  2027 0.97 APC repeat
+APC_u5               PF16630.3    100 sp_P43360_MAGA6_HUMAN -           2840   2.7e-53  179.0   6.6   1   2   2.3e-56   2.7e-53  179.0   6.6     1   100  1033  1132  1033  1132 1.00 Unstructured region on APC between 1st and 2nd catenin-bdg motifs
+APC_u5               PF16630.3    100 sp_P43360_MAGA6_HUMAN -           2840   2.7e-53  179.0   6.6   2   2       9.4   1.1e+04   -2.6   1.1    24    41  2611  2628  2557  2654 0.58 Unstructured region on APC between 1st and 2nd catenin-bdg motifs
+APC_u14              PF16635.3     94 sp_P43360_MAGA6_HUMAN -           2840   7.3e-42  141.7  11.0   1   3   6.3e-45   7.3e-42  141.7  11.0     1    94  1743  1836  1743  1836 0.99 Unstructured region on APC between SAMP and APC_crr
+APC_u14              PF16635.3     94 sp_P43360_MAGA6_HUMAN -           2840   7.3e-42  141.7  11.0   2   3       6.4   7.4e+03   -2.6   4.6     4    53  2341  2390  2338  2429 0.64 Unstructured region on APC between SAMP and APC_crr
+APC_u14              PF16635.3     94 sp_P43360_MAGA6_HUMAN -           2840   7.3e-42  141.7  11.0   3   3       2.5   2.9e+03   -1.3   0.3    49    78  2793  2822  2780  2835 0.71 Unstructured region on APC between SAMP and APC_crr
+APC_u15              PF16636.3     81 sp_P43360_MAGA6_HUMAN -           2840   4.5e-38  129.4   7.2   1   4       3.8   4.5e+03   -2.0   4.1    16    63  1730  1779  1726  1794 0.79 Unstructured region on APC between APC_crr regions 5 and 6
+APC_u15              PF16636.3     81 sp_P43360_MAGA6_HUMAN -           2840   4.5e-38  129.4   7.2   2   4       5.2   6.1e+03   -2.4   0.1    21    48  1787  1814  1780  1819 0.75 Unstructured region on APC between APC_crr regions 5 and 6
+APC_u15              PF16636.3     81 sp_P43360_MAGA6_HUMAN -           2840   4.5e-38  129.4   7.2   3   4   3.9e-41   4.5e-38  129.4   7.2     1    81  1864  1944  1864  1944 1.00 Unstructured region on APC between APC_crr regions 5 and 6
+APC_u15              PF16636.3     81 sp_P43360_MAGA6_HUMAN -           2840   4.5e-38  129.4   7.2   4   4       5.6   6.6e+03   -2.5   2.4    27    38  2595  2606  2575  2650 0.50 Unstructured region on APC between APC_crr regions 5 and 6
+APC_u9               PF16633.3     88 sp_P43360_MAGA6_HUMAN -           2840   1.1e-35  122.5   8.4   1   1   9.2e-39   1.1e-35  122.5   8.4     1    88  1279  1365  1279  1365 0.99 Unstructured region on APC between 1st two creatine-rich regions
+SAMP                 PF05924.9     22 sp_P43360_MAGA6_HUMAN -           2840   1.7e-28   96.9  15.8   1   3   9.7e-12   1.1e-08   33.9   2.6     1    22  1564  1585  1564  1585 0.96 SAMP Motif
+SAMP                 PF05924.9     22 sp_P43360_MAGA6_HUMAN -           2840   1.7e-28   96.9  15.8   2   3   4.6e-11   5.4e-08   31.7   0.1     2    22  1714  1734  1713  1734 0.90 SAMP Motif
+SAMP                 PF05924.9     22 sp_P43360_MAGA6_HUMAN -           2840   1.7e-28   96.9  15.8   3   3   4.4e-13   5.1e-10   38.1   1.7     1    21  2028  2048  2028  2049 0.94 SAMP Motif
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   1   6   0.00013      0.15   12.0   0.2     5    29   341   366   337   367 0.84 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   2   6      0.23   2.7e+02    1.7   0.0     2    26   457   481   456   483 0.86 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   3   6   1.5e-07   0.00018   21.3   0.2     7    40   515   549   509   550 0.87 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   4   6   4.4e-05     0.051   13.5   0.1     5    41   557   594   553   594 0.94 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   5   6   1.4e-10   1.6e-07   30.9   0.5     1    41   646   686   646   686 0.96 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P43360_MAGA6_HUMAN -           2840   4.3e-27   93.1  15.1   6   6   1.2e-06    0.0014   18.5   0.0     1    40   688   727   688   728 0.93 Armadillo/beta-catenin-like repeat
+APC_u13              PF16634.3     54 sp_P43360_MAGA6_HUMAN -           2840   7.9e-26   89.6   1.7   1   2   6.8e-29   7.9e-26   89.6   1.7     1    54  1659  1712  1659  1712 0.99 Unstructured region on APC between APC_crr and SAMP
+APC_u13              PF16634.3     54 sp_P43360_MAGA6_HUMAN -           2840   7.9e-26   89.6   1.7   2   2       3.7   4.3e+03   -2.4   0.5     3    15  2334  2346  2334  2353 0.77 Unstructured region on APC between APC_crr and SAMP
+MAGE_N               PF12440.6     92 sp_P43360_MAGA6_HUMAN -           2840   9.9e-26   90.1  10.2   1   1   8.5e-29   9.9e-26   90.1  10.2     1    92     5    96     5    96 0.99 Melanoma associated antigen family N terminal
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   1   6   5.3e-08   6.2e-05   22.9   0.8     1    15  1017  1031  1017  1031 0.96 APC 15 residue motif
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   2   6   6.8e-07   0.00079   19.4   3.5     1    15  1133  1147  1133  1147 0.96 APC 15 residue motif
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   3   6   7.5e-08   8.8e-05   22.4   1.6     1    15  1152  1166  1152  1166 0.96 APC 15 residue motif
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   4   6   8.8e-09     1e-05   25.3   0.1     1    15  1169  1183  1169  1183 0.95 APC 15 residue motif
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   5   6       8.5   9.9e+03   -2.9   0.0     2     9  1262  1269  1262  1270 0.85 APC 15 residue motif
+APC_15aa             PF05972.9     15 sp_P43360_MAGA6_HUMAN -           2840   2.4e-22   77.6  26.2   6   6       1.6   1.8e+03   -0.6   0.0     4     9  1644  1649  1642  1650 0.87 APC 15 residue motif
+MAGE                 PF01454.17   213 sp_P43360_MAGA6_HUMAN -           2840   4.7e-15   55.7   0.0   1   2   1.8e-06    0.0021   17.6   0.0     1    56   116   170   116   174 0.93 MAGE family
+MAGE                 PF01454.17   213 sp_P43360_MAGA6_HUMAN -           2840   4.7e-15   55.7   0.0   2   2   1.5e-11   1.7e-08   34.3   0.0   121   210   198   281   185   283 0.91 MAGE family
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -62,5 +56,5 @@ Baculo_PEP_C         PF04513.10   140 sp_P25054_APC_HUMAN  -           2843     
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P25054_APC_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:37 2016
+# Date:            Sat Sep 10 08:19:07 2016
 # [ok]

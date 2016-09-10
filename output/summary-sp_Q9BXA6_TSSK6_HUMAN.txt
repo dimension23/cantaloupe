@@ -1,0 +1,21 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.23   264 sp_Q9BXA6_TSSK6_HUMAN -            273   2.5e-59  200.7   0.0   1   1   1.2e-62   2.9e-59  200.5   0.0     1   264    12   267    12   267 0.92 Protein kinase domain
+Pkinase_Tyr          PF07714.15   260 sp_Q9BXA6_TSSK6_HUMAN -            273     9e-35  120.1   0.0   1   1   4.4e-38     1e-34  119.9   0.0     2   257    13   262    12   265 0.90 Protein tyrosine kinase
+Kinase-like          PF14531.4    288 sp_Q9BXA6_TSSK6_HUMAN -            273   8.2e-08   31.8   0.0   1   1   5.8e-11   1.3e-07   31.1   0.0   131   288    98   255    67   255 0.81 Kinase-like
+Kdo                  PF06293.12   207 sp_Q9BXA6_TSSK6_HUMAN -            273     1e-05   24.9   0.0   1   1   5.3e-09   1.2e-05   24.6   0.0    94   166    88   155    21   162 0.88 Lipopolysaccharide kinase (Kdo/WaaP) family
+APH                  PF01636.21   240 sp_Q9BXA6_TSSK6_HUMAN -            273     0.016   15.0   0.5   1   2   1.6e-05     0.038   13.8   0.5   152   194   115   156     8   171 0.77 Phosphotransferase enzyme family
+APH                  PF01636.21   240 sp_Q9BXA6_TSSK6_HUMAN -            273     0.016   15.0   0.5   2   2       1.7   3.9e+03   -2.6   0.0   213   229   209   225   193   257 0.55 Phosphotransferase enzyme family
+RIO1                 PF01163.20   188 sp_Q9BXA6_TSSK6_HUMAN -            273     0.074   12.5   0.0   1   1   4.5e-05       0.1   12.0   0.0    53   143    55   149    21   157 0.65 RIO1 family
+Choline_kinase       PF01633.18   213 sp_Q9BXA6_TSSK6_HUMAN -            273       0.1   12.0   0.0   1   1   6.5e-05      0.15   11.5   0.0   147   199   131   182    92   195 0.83 Choline/ethanolamine kinase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9BXA6_TSSK6_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:22:16 2016
+# [ok]

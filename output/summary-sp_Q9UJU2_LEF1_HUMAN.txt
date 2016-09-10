@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+HMG_box              PF00505.17    69 sp_Q16385_SSX2_HUMAN -            398   7.1e-22   77.5   0.7   1   3     0.027        87    3.5   1.0    30    58    27    56     9    61 0.76 HMG (high mobility group) box
+HMG_box              PF00505.17    69 sp_Q16385_SSX2_HUMAN -            398   7.1e-22   77.5   0.7   2   3       1.7   5.6e+03   -2.3   0.0    17    25   265   273   262   276 0.82 HMG (high mobility group) box
+HMG_box              PF00505.17    69 sp_Q16385_SSX2_HUMAN -            398   7.1e-22   77.5   0.7   3   3   2.2e-25   7.1e-22   77.5   0.7     1    68   298   365   298   366 0.98 HMG (high mobility group) box
+SSXRD                PF09514.8     31 sp_Q16385_SSX2_HUMAN -            398     1e-15   56.9   0.8   1   1   8.8e-19   2.9e-15   55.4   0.8     3    31   158   187   156   187 0.95 SSXRD motif
+HMG_box_2            PF09011.8     73 sp_Q16385_SSX2_HUMAN -            398   1.6e-09   38.1   6.2   1   2    0.0058        19    5.8   0.5    31    57    24    51     8    60 0.78 HMG-box domain
+HMG_box_2            PF09011.8     73 sp_Q16385_SSX2_HUMAN -            398   1.6e-09   38.1   6.2   2   2   7.1e-12   2.3e-08   34.4   0.8     3    63   295   356   293   362 0.91 HMG-box domain
+CTNNB1_binding       PF08347.9    202 sp_Q16385_SSX2_HUMAN -            398   3.2e-08   33.9   3.1   1   2   2.7e-11   8.9e-08   32.4   0.1   178   202   188   212   181   212 0.94 N-terminal CTNNB1 binding
+CTNNB1_binding       PF08347.9    202 sp_Q16385_SSX2_HUMAN -            398   3.2e-08   33.9   3.1   2   2     0.092     3e+02    1.3   0.4   115   155   225   314   213   352 0.58 N-terminal CTNNB1 binding
+KRAB                 PF01352.25    42 sp_Q16385_SSX2_HUMAN -            398   0.00011   21.7   0.0   1   1   6.1e-08    0.0002   20.8   0.0     3    41    24    61    23    62 0.84 KRAB box
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9UJU2_LEF1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:21:05 2016
+# [ok]

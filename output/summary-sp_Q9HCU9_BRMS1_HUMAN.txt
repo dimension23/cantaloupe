@@ -1,0 +1,21 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sds3                 PF08598.9    218 sp_Q9HCU9_BRMS1_HUMAN -            246   9.7e-18   64.8   3.5   1   3       2.1   6.7e+03   -3.3   1.1    59    81    23    45     8    55 0.52 Sds3-like
+Sds3                 PF08598.9    218 sp_Q9HCU9_BRMS1_HUMAN -            246   9.7e-18   64.8   3.5   2   3     3e-21   9.7e-18   64.8   3.5     2   123    61   180    60   206 0.91 Sds3-like
+Sds3                 PF08598.9    218 sp_Q9HCU9_BRMS1_HUMAN -            246   9.7e-18   64.8   3.5   3   3      0.16   5.3e+02    0.3   0.0   193   217   186   227   182   228 0.66 Sds3-like
+Dynactin_p62         PF05502.11   476 sp_Q9HCU9_BRMS1_HUMAN -            246     0.025   13.2   0.7   1   1   8.1e-06     0.027   13.2   0.7   121   207    17   104     9   199 0.76 Dynactin p62 family
+PIP5K                PF01504.16   274 sp_Q9HCU9_BRMS1_HUMAN -            246      0.48    9.5   3.4   1   1   0.00041       1.3    8.0   3.4   193   247    47   238     6   245 0.75 Phosphatidylinositol-4-phosphate 5-Kinase
+CDC45                PF02724.12   627 sp_Q9HCU9_BRMS1_HUMAN -            246      0.71    8.0   7.7   1   1   0.00033       1.1    7.4   7.7   145   194    11    74     3   116 0.48 CDC45-like protein
+Vfa1                 PF08432.8    181 sp_Q9HCU9_BRMS1_HUMAN -            246       3.4    7.8   9.2   1   2   0.00059       1.9    8.6   6.2    79   158    13    89     4   105 0.42 AAA-ATPase Vps4-associated protein 1
+Vfa1                 PF08432.8    181 sp_Q9HCU9_BRMS1_HUMAN -            246       3.4    7.8   9.2   2   2      0.38   1.2e+03   -0.5   0.0    49    83   125   171   123   206 0.46 AAA-ATPase Vps4-associated protein 1
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9HCU9_BRMS1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:19:31 2016
+# [ok]

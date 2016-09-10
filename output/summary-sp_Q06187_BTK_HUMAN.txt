@@ -1,0 +1,37 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PLU-1                PF08429.9    334 sp_Q9UGL1_KDM5B_HUMAN -           1544   1.9e-93  313.1  14.2   1   4   1.9e-93   3.4e-90  302.4   5.5     1   334   757  1087   757  1087 0.96 PLU-1-like protein
+PLU-1                PF08429.9    334 sp_Q9UGL1_KDM5B_HUMAN -           1544   1.9e-93  313.1  14.2   2   4   1.9e-05     0.035   13.1   0.2    76   127  1221  1272  1106  1285 0.63 PLU-1-like protein
+PLU-1                PF08429.9    334 sp_Q9UGL1_KDM5B_HUMAN -           1544   1.9e-93  313.1  14.2   3   4   3.5e-05     0.064   12.3   0.0    13    62  1224  1272  1220  1303 0.65 PLU-1-like protein
+PLU-1                PF08429.9    334 sp_Q9UGL1_KDM5B_HUMAN -           1544   1.9e-93  313.1  14.2   4   4      0.15   2.6e+02    0.4   0.1   136   160  1345  1369  1338  1373 0.71 PLU-1-like protein
+JmjC                 PF02373.20   114 sp_Q9UGL1_KDM5B_HUMAN -           1544   3.3e-44  149.9   1.5   1   1   4.1e-47   7.4e-44  148.7   1.5     1   114   486   602   486   602 0.99 JmjC domain, hydroxylase
+PHD                  PF00628.27    52 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.9e-25   86.1  43.5   1   5   5.5e-15     1e-11   44.4   4.0     2    50   312   357   311   359 0.95 PHD-finger
+PHD                  PF00628.27    52 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.9e-25   86.1  43.5   2   5         9   1.6e+04   -4.4   1.1    45    50   691   696   686   700 0.56 PHD-finger
+PHD                  PF00628.27    52 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.9e-25   86.1  43.5   3   5       6.8   1.2e+04   -3.9   0.0    45    50  1090  1095  1080  1096 0.70 PHD-finger
+PHD                  PF00628.27    52 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.9e-25   86.1  43.5   4   5   2.5e-11   4.5e-08   32.7   5.0     1    51  1178  1223  1178  1224 0.90 PHD-finger
+PHD                  PF00628.27    52 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.9e-25   86.1  43.5   5   5   1.2e-10   2.2e-07   30.5   7.3     5    51  1492  1537  1486  1538 0.85 PHD-finger
+ARID                 PF01388.19    89 sp_Q9UGL1_KDM5B_HUMAN -           1544   9.1e-17   61.4   0.0   1   1   1.4e-19   2.6e-16   59.9   0.0     2    88   100   182    99   183 0.94 ARID/BRIGHT DNA binding domain
+zf-C5HC2             PF02928.14    53 sp_Q9UGL1_KDM5B_HUMAN -           1544   3.1e-15   56.1  12.4   1   2   1.7e-18   3.1e-15   56.1  12.4     1    53   692   744   692   744 0.95 C5HC2 zinc finger
+zf-C5HC2             PF02928.14    53 sp_Q9UGL1_KDM5B_HUMAN -           1544   3.1e-15   56.1  12.4   2   2       1.6   2.9e+03   -1.4   0.6     1    16  1192  1207  1192  1233 0.75 C5HC2 zinc finger
+JmjN                 PF02375.15    34 sp_Q9UGL1_KDM5B_HUMAN -           1544   2.1e-14   53.0   0.8   1   1   2.5e-17   4.6e-14   51.9   0.8     1    34    33    66    33    66 0.99 jmjN domain
+PHD_2                PF13831.4     36 sp_Q9UGL1_KDM5B_HUMAN -           1544    0.0013   18.1  35.0   1   5    0.0006       1.1    8.7   0.7     2    35   322   356   321   357 0.83 PHD-finger
+PHD_2                PF13831.4     36 sp_Q9UGL1_KDM5B_HUMAN -           1544    0.0013   18.1  35.0   2   5       4.3   7.9e+03   -3.6   0.6     7    12   692   697   691   698 0.73 PHD-finger
+PHD_2                PF13831.4     36 sp_Q9UGL1_KDM5B_HUMAN -           1544    0.0013   18.1  35.0   3   5       6.8   1.2e+04   -4.2   0.2    30    35  1089  1094  1087  1095 0.61 PHD-finger
+PHD_2                PF13831.4     36 sp_Q9UGL1_KDM5B_HUMAN -           1544    0.0013   18.1  35.0   4   5   2.4e-06    0.0043   16.4   1.8     3    36  1188  1222  1186  1222 0.95 PHD-finger
+PHD_2                PF13831.4     36 sp_Q9UGL1_KDM5B_HUMAN -           1544    0.0013   18.1  35.0   5   5   1.2e-05     0.022   14.1   6.1     5    36  1503  1536  1501  1536 0.91 PHD-finger
+zf-PHD-like          PF15446.4    169 sp_Q9UGL1_KDM5B_HUMAN -           1544      0.01   15.3  12.2   1   3   9.2e-05      0.17   11.4   0.4     1    30   312   339   312   343 0.89 PHD/FYVE-zinc-finger like domain
+zf-PHD-like          PF15446.4    169 sp_Q9UGL1_KDM5B_HUMAN -           1544      0.01   15.3  12.2   2   3    0.0067        12    5.3   1.1     4    31  1179  1205  1176  1212 0.83 PHD/FYVE-zinc-finger like domain
+zf-PHD-like          PF15446.4    169 sp_Q9UGL1_KDM5B_HUMAN -           1544      0.01   15.3  12.2   3   3      0.02        36    3.8   0.2     4    32  1492  1520  1487  1529 0.80 PHD/FYVE-zinc-finger like domain
+Lipoprotein_20       PF13942.4    175 sp_Q9UGL1_KDM5B_HUMAN -           1544      0.26   11.1   3.5   1   2       1.7   3.1e+03   -2.2   0.6    69   125   833   892   803   924 0.61 YfhG lipoprotein
+Lipoprotein_20       PF13942.4    175 sp_Q9UGL1_KDM5B_HUMAN -           1544      0.26   11.1   3.5   2   2   7.6e-05      0.14   12.0   0.1   127   173  1094  1143  1058  1145 0.77 YfhG lipoprotein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q06187_BTK_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:17:20 2016
+# [ok]

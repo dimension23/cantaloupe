@@ -1,0 +1,148 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   1  35      0.15   1.7e+02    2.8   0.3    28    43   361   378   359   380 0.90 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   2  35   3.8e-09   4.1e-06   27.2   0.9     1    56   378   433   378   433 0.94 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   3  35   9.9e-15   1.1e-11   45.1   3.7     1    56   438   493   438   493 1.00 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   4  35   3.2e-06    0.0035   17.8   0.9    14    50   514   551   498   559 0.86 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   5  35   0.00013      0.14   12.7   6.2     1    52   727   779   727   787 0.88 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   6  35   3.2e-13   3.5e-10   40.2   1.2     1    56  1628  1685  1628  1685 0.82 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   7  35   2.3e-13   2.5e-10   40.7   1.2     1    56  1690  1743  1690  1743 0.95 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   8  35   1.5e-14   1.6e-11   44.5   0.8     1    56  1789  1842  1789  1842 0.95 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6   9  35     5e-12   5.4e-09   36.4   1.6     1    56  1847  1900  1847  1900 0.96 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  10  35   3.2e-12   3.5e-09   37.0   0.3     1    56  1905  1958  1905  1958 0.96 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  11  35   3.2e-14   3.4e-11   43.4   0.3     1    56  1963  2016  1963  2016 0.96 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  12  35   4.9e-10   5.3e-07   30.0   0.2     1    56  2021  2078  2021  2078 0.92 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  13  35   3.2e-10   3.4e-07   30.6   0.2     1    53  2083  2136  2083  2141 0.87 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  14  35     1e-15   1.1e-12   48.2   1.6     1    56  2146  2199  2146  2199 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  15  35   1.7e-12   1.9e-09   37.9   1.5     1    56  2204  2259  2204  2259 0.95 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  16  35   5.6e-15   6.1e-12   45.9   2.8     1    56  2264  2318  2264  2318 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  17  35   1.2e-09   1.3e-06   28.8   0.4     1    56  2323  2376  2323  2376 0.88 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  18  35   1.2e-12   1.3e-09   38.4   0.5     1    56  2381  2435  2381  2435 0.95 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  19  35   6.6e-12   7.2e-09   36.0   0.3     1    56  2440  2493  2440  2493 0.96 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  20  35   1.1e-13   1.1e-10   41.8   0.3     1    56  2498  2551  2498  2551 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  21  35   2.5e-12   2.7e-09   37.4   0.7     1    56  2556  2608  2556  2608 0.98 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  22  35   5.5e-14     6e-11   42.7   0.5    16    56  2670  2712  2658  2712 0.87 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  23  35   7.1e-11   7.7e-08   32.7   0.1     1    56  2717  2770  2717  2770 0.98 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  24  35   1.1e-13   1.1e-10   41.8   2.0     1    56  2775  2828  2775  2828 0.98 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  25  35   8.2e-14   8.9e-11   42.1   0.5     1    56  2833  2886  2833  2886 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  26  35   4.5e-12   4.9e-09   36.5   0.2     1    56  2891  2944  2891  2944 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  27  35   2.1e-11   2.3e-08   34.4   0.7     1    56  2949  3002  2949  3002 0.97 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  28  35   5.9e-11   6.4e-08   33.0   0.6     1    56  3007  3059  3007  3059 0.95 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  29  35   3.7e-10     4e-07   30.4   1.0     1    56  3064  3117  3064  3117 0.91 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  30  35   3.7e-10     4e-07   30.4   0.6     1    52  3122  3172  3122  3176 0.91 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  31  35   4.3e-13   4.7e-10   39.8   0.4     1    54  3181  3232  3181  3236 0.93 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  32  35   4.5e-14   4.9e-11   42.9   1.5     1    56  3241  3294  3241  3294 0.94 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  33  35   8.4e-13   9.1e-10   38.9   1.1     1    56  3299  3352  3299  3352 0.91 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  34  35   1.9e-09     2e-06   28.2   0.3     1    56  3357  3411  3357  3411 0.88 Sushi repeat (SCR repeat)
+Sushi                PF00084.18    56 sp_Q4LDE5_SVEP1_HUMAN -           3571         0 1061.9 258.6  35  35   5.4e-12   5.9e-09   36.3   0.5     1    56  3416  3468  3416  3468 0.93 Sushi repeat (SCR repeat)
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   1   6   6.3e-15   6.8e-12   44.8  10.0     1    48   310   360   310   360 0.98 Putative ephrin-receptor like
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   2   6   3.3e-19   3.5e-16   58.5   4.8     1    48  1005  1052  1005  1052 1.00 Putative ephrin-receptor like
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   3   6   9.3e-19     1e-15   57.1   6.9     1    48  1059  1106  1059  1106 1.00 Putative ephrin-receptor like
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   4   6   9.6e-19     1e-15   57.0   2.8     1    48  1113  1160  1113  1160 0.99 Putative ephrin-receptor like
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   5   6       2.3   2.5e+03   -1.8   0.0    26    33  1626  1634  1621  1646 0.70 Putative ephrin-receptor like
+Ephrin_rec_like      PF07699.11    48 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-60  199.1  55.8   6   6      0.29   3.2e+02    1.1   0.2    13    30  2171  2188  2162  2190 0.93 Putative ephrin-receptor like
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   1  12       7.5   8.1e+03   -2.9  14.4     6    31   288   314   281   315 0.66 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   2  12       5.1   5.6e+03   -2.4   0.4    22    28   360   366   360   367 0.92 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   3  12   5.9e-09   6.4e-06   26.2   8.1     4    30  1200  1225  1197  1227 0.92 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   4  12   7.1e-12   7.7e-09   35.6   5.1     1    32  1235  1265  1235  1265 0.97 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   5  12   2.7e-09   2.9e-06   27.3   3.6     1    31  1273  1302  1273  1303 0.96 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   6  12   1.6e-07   0.00017   21.7   9.2     1    28  1311  1337  1311  1344 0.93 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   7  12   1.7e-10   1.8e-07   31.2   4.9     1    32  1349  1379  1349  1379 0.97 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   8  12   3.2e-12   3.5e-09   36.7   6.2     1    32  1387  1417  1387  1417 0.99 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4   9  12   1.8e-06    0.0019   18.3   4.8     5    31  1754  1779  1749  1780 0.89 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4  10  12   0.00036      0.39   10.9   6.9     4    30  3474  3496  3472  3498 0.85 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4  11  12   1.6e-08   1.7e-05   24.9   5.6     4    32  3506  3530  3502  3530 0.88 EGF-like domain
+EGF                  PF00008.25    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   9.4e-47  156.8 183.4  12  12   0.00097       1.1    9.6   7.7     1    31  3536  3561  3536  3562 0.90 EGF-like domain
+VWA                  PF00092.26   175 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.2e-34  119.1   0.0   1   1   3.2e-37   3.4e-34  118.5   0.0     2   172    84   255    83   258 0.92 von Willebrand factor type A domain
+HYR                  PF02494.14    81 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-31  106.9   2.6   1   2   1.8e-18   1.9e-15   56.8   0.3     1    81   560   642   560   642 0.90 HYR domain
+HYR                  PF02494.14    81 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.5e-31  106.9   2.6   2   2   4.3e-16   4.7e-13   49.1   0.1     2    80   644   721   643   722 0.92 HYR domain
+Pentaxin             PF00354.15   194 sp_Q4LDE5_SVEP1_HUMAN -           3571   1.8e-27   96.2   0.0   1   1   2.8e-30     3e-27   95.4   0.0    18   191  1441  1620  1429  1623 0.83 Pentaxin family
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   1  17       9.3     1e+04   -2.7   8.8     5    22   292   311   281   311 0.80 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   2  17       1.8   1.9e+03   -0.4   0.3    15    22   359   366   352   366 0.86 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   3  17   5.8e-06    0.0063   17.0   6.0     1    22  1202  1223  1202  1223 0.98 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   4  17   1.2e-07   0.00013   22.4   2.9     1    22  1240  1261  1240  1261 0.99 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   5  17   3.7e-06     0.004   17.6   3.5     1    22  1278  1299  1278  1299 0.96 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   6  17   1.2e-08   1.3e-05   25.5   3.6     1    22  1316  1337  1316  1337 0.99 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   7  17   3.2e-08   3.5e-05   24.2   1.7     1    22  1354  1375  1354  1375 0.99 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   8  17   3.6e-08   3.9e-05   24.0   2.1     1    22  1392  1413  1392  1413 0.99 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0   9  17   0.00078      0.85   10.3   2.4     1    20  1755  1774  1755  1774 0.96 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  10  17       2.9   3.2e+03   -1.1   0.3    17    22  2230  2235  2230  2235 0.94 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  11  17       7.7   8.4e+03   -2.4   0.1    18    22  2466  2470  2465  2470 0.89 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  12  17       5.8   6.3e+03   -2.0   0.1    18    22  2685  2689  2684  2689 0.90 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  13  17       4.3   4.7e+03   -1.6   0.3    17    22  2800  2805  2800  2805 0.91 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  14  17       7.8   8.5e+03   -2.4   0.4    17    22  3266  3271  3266  3271 0.93 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  15  17    0.0003      0.32   11.6   8.1     1    22  3476  3494  3476  3494 0.88 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  16  17     4e-07   0.00044   20.7   7.5     1    22  3508  3526  3508  3526 0.98 Human growth factor-like EGF
+hEGF                 PF12661.5     22 sp_Q4LDE5_SVEP1_HUMAN -           3571   3.1e-27   94.1 162.0  17  17     0.018        19    6.0   5.3     1    19  3540  3555  3540  3556 0.84 Human growth factor-like EGF
+Laminin_G_3          PF13385.4    152 sp_Q4LDE5_SVEP1_HUMAN -           3571   4.2e-18   65.8   0.2   1   1   9.5e-21     1e-17   64.5   0.2     4   152  1436  1590  1433  1590 0.82 Concanavalin A-like lectin/glucanases superfamily
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   1  13      0.93     1e+03    0.1  16.2     1    30   281   314   281   315 0.86 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   2  13      0.76   8.3e+02    0.3   0.7    20    32   359   373   350   373 0.84 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   3  13   0.00027      0.29   11.4   9.4     6    32  1200  1228  1197  1228 0.80 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   4  13   2.6e-06    0.0029   17.8   6.2     1    32  1235  1266  1235  1266 0.89 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   5  13    0.0015       1.6    9.0   7.6     1    32  1273  1304  1273  1304 0.90 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   6  13     0.002       2.2    8.6   7.2     1    32  1311  1342  1311  1342 0.88 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   7  13     0.021        23    5.3   8.7     6    32  1352  1380  1348  1380 0.87 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   8  13    0.0007      0.76   10.1  10.5     1    32  1387  1418  1387  1418 0.82 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7   9  13       1.3   1.5e+03   -0.4   7.7     1    30  1749  1779  1749  1783 0.77 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7  10  13       5.9   6.5e+03   -2.5   0.1    14    31  2859  2883  2858  2883 0.64 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7  11  13   6.6e-06    0.0071   16.6  11.2     1    32  3468  3499  3468  3499 0.88 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7  12  13   7.1e-08   7.7e-05   22.8   5.2     7    32  3507  3531  3501  3531 0.91 EGF-like domain
+EGF_2                PF07974.11    32 sp_Q4LDE5_SVEP1_HUMAN -           3571   5.8e-14   52.0 192.7  13  13   9.5e-07     0.001   19.2   9.7     1    32  3536  3563  3534  3563 0.94 EGF-like domain
+VWA_2                PF13519.4    107 sp_Q4LDE5_SVEP1_HUMAN -           3571   7.2e-12   45.8   0.0   1   1   1.4e-14   1.5e-11   44.8   0.0     1   106    84   197    84   198 0.82 von Willebrand factor type A domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   1  17      0.27   2.9e+02    1.6  16.5     5    42   281   320   281   329 0.79 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   2  17      0.17   1.8e+02    2.3   1.9    26    42   359   373   359   373 0.87 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   3  17         1   1.1e+03   -0.2   0.3    27    42   462   480   459   480 0.84 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   4  17    0.0071       7.7    6.7   6.5     4    34  1196  1224  1194  1230 0.86 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   5  17   2.6e-07   0.00028   20.9   4.2     1    34  1231  1262  1231  1269 0.89 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   6  17   0.00014      0.15   12.1   5.6     2    34  1270  1300  1269  1306 0.91 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   7  17   3.1e-07   0.00034   20.6   6.3     2    34  1308  1338  1307  1344 0.88 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   8  17   6.7e-05     0.073   13.1   7.8     2    34  1346  1376  1345  1381 0.90 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8   9  17   1.2e-05     0.013   15.5  10.1     2    35  1384  1415  1383  1423 0.86 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  10  17   2.6e-10   2.8e-07   30.5   8.3     1    42  1745  1783  1745  1783 0.96 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  11  17       2.8     3e+03   -1.6   0.2    28    42  1872  1887  1869  1887 0.89 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  12  17       5.4   5.9e+03   -2.5   0.1    29    42  2290  2304  2286  2304 0.85 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  13  17       1.6   1.8e+03   -0.9   0.1    29    42  2801  2815  2796  2815 0.91 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  14  17       8.1   8.8e+03   -3.1   0.1    28    42  3147  3163  3145  3163 0.80 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  15  17       3.2   3.5e+03   -1.8   0.1    28    42  3266  3281  3259  3281 0.80 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  16  17         8   8.7e+03   -3.1   0.2    29    42  3325  3339  3323  3339 0.86 Calcium-binding EGF domain
+EGF_CA               PF07645.13    42 sp_Q4LDE5_SVEP1_HUMAN -           3571     1e-09   38.3  34.8  17  17       3.3   3.6e+03   -1.9   7.2    25    38  3518  3532  3506  3546 0.79 Calcium-binding EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   1  18       1.9   2.1e+03   -1.1  17.1     1    34   281   316   281   320 0.84 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   2  18       0.1   1.1e+02    2.9   0.4    23    36   360   373   349   373 0.94 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   3  18       6.5     7e+03   -2.8   0.2    13    33   450   474   446   475 0.72 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   4  18       2.8   3.1e+03   -1.6   0.9    13    31   739   759   737   760 0.80 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   5  18   0.00027      0.29   11.2   2.6     7    31  1201  1225  1199  1228 0.93 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   6  18   0.00076      0.83    9.8   2.5     8    31  1240  1263  1228  1264 0.88 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   7  18       8.7   9.4e+03   -3.2   8.8     8    31  1278  1301  1266  1304 0.64 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   8  18   0.00022      0.24   11.5   5.6     3    31  1313  1339  1311  1342 0.86 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8   9  18     0.012        14    5.9   8.7     6    31  1352  1377  1349  1380 0.91 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  10  18   0.00014      0.16   12.1   8.9     2    31  1388  1415  1387  1418 0.88 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  11  18   2.1e-09   2.3e-06   27.6   7.8     1    36  1749  1783  1749  1783 0.95 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  12  18      0.78   8.5e+02    0.1   0.0    21    35  1811  1825  1804  1825 0.79 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  13  18       1.4   1.6e+03   -0.7   0.1    23    33  1987  1997  1978  1999 0.81 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  14  18       7.9   8.5e+03   -3.1   0.1    24    34  2800  2810  2800  2811 0.88 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  15  18       8.7   9.4e+03   -3.2   0.0    24    33  2858  2867  2853  2868 0.86 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  16  18      0.58   6.4e+02    0.5   0.0    24    34  3206  3216  3198  3217 0.85 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  17  18       2.6   2.9e+03   -1.6   0.1    17    33  3317  3333  3314  3334 0.78 EGF domain
+EGF_3                PF12947.5     36 sp_Q4LDE5_SVEP1_HUMAN -           3571   2.3e-06   27.6   7.8  18  18       2.1   2.3e+03   -1.2   0.7    21    31  3518  3528  3506  3529 0.78 EGF domain
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   1   7       1.4   1.6e+03   -1.1   0.0    24    40   467   483   464   485 0.85 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   2   7       2.9   3.1e+03   -2.0   0.0    21    36  1813  1828  1810  1832 0.78 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   3   7      0.33   3.6e+02    1.0   0.0    15    32  1865  1882  1862  1889 0.89 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   4   7         1   1.1e+03   -0.6   0.0    15    40  2223  2248  2214  2251 0.81 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   5   7      0.48   5.2e+02    0.4   0.1    22    39  2289  2306  2283  2311 0.80 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   6   7      0.27     3e+02    1.2   0.0    24    40  2686  2702  2680  2705 0.81 Domain of unknown function (DUF1737)
+DUF1737              PF08410.8     53 sp_Q4LDE5_SVEP1_HUMAN -           3571   6.9e-05   22.5   2.7   7   7    0.0015       1.6    8.5   0.1    12    39  2906  2933  2901  2937 0.85 Domain of unknown function (DUF1737)
+Laminin_G_2          PF02210.22   126 sp_Q4LDE5_SVEP1_HUMAN -           3571    0.0066   16.9   0.0   1   1   1.2e-05     0.013   15.9   0.0    39   123  1495  1579  1480  1581 0.79 Laminin G domain
+DUF4625              PF15418.4    132 sp_Q4LDE5_SVEP1_HUMAN -           3571     0.032   14.3   0.4   1   3   0.00059      0.64   10.1   0.0    69   131   580   642   557   643 0.86 Domain of unknown function (DUF4625)
+DUF4625              PF15418.4    132 sp_Q4LDE5_SVEP1_HUMAN -           3571     0.032   14.3   0.4   2   3      0.64     7e+02    0.3   0.0   106   131   697   722   674   723 0.88 Domain of unknown function (DUF4625)
+DUF4625              PF15418.4    132 sp_Q4LDE5_SVEP1_HUMAN -           3571     0.032   14.3   0.4   3   3       2.2   2.4e+03   -1.4   0.0     3    44  2815  2855  2813  2857 0.84 Domain of unknown function (DUF4625)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q4LDE5_SVEP1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:22:14 2016
+# [ok]

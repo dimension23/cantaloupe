@@ -1,22 +1,67 @@
 #                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
 # target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
 #------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-ABC2_membrane        PF01061.22   210 sp_Q9UNQ0_ABCG2_HUMAN -            780   1.6e-40  138.6  23.2   1   1   1.8e-43   2.9e-40  137.8  23.2     2   210   376   586   375   586 0.97 ABC-2 type transporter
-ABC_tran             PF00005.25   137 sp_Q9UNQ0_ABCG2_HUMAN -            780   8.8e-23   81.2   0.0   1   2   2.2e-24   3.6e-21   76.0   0.0     9   136    72   213    64   214 0.93 ABC transporter
-ABC_tran             PF00005.25   137 sp_Q9UNQ0_ABCG2_HUMAN -            780   8.8e-23   81.2   0.0   2   2     0.074   1.2e+02    3.0   0.0    84   116   324   359   283   365 0.64 ABC transporter
-AAA_21               PF13304.4    303 sp_Q9UNQ0_ABCG2_HUMAN -            780   9.9e-06   25.4   0.3   1   2   0.00011      0.18   11.5   0.1     1    20    75    94    75   127 0.82 AAA domain, putative AbiEii toxin, Type IV TA system
-AAA_21               PF13304.4    303 sp_Q9UNQ0_ABCG2_HUMAN -            780   9.9e-06   25.4   0.3   2   2   8.5e-05      0.14   11.8   0.0   257   299   203   245   144   246 0.88 AAA domain, putative AbiEii toxin, Type IV TA system
-SMC_N                PF02463.17   220 sp_Q9UNQ0_ABCG2_HUMAN -            780   7.6e-05   22.1   1.2   1   3   0.00013      0.22   10.8   0.1    18    44    67    93    61    95 0.87 RecF/RecN/SMC N terminal domain
-SMC_N                PF02463.17   220 sp_Q9UNQ0_ABCG2_HUMAN -            780   7.6e-05   22.1   1.2   2   3   0.00048      0.77    9.0   0.0   137   201   186   246   135   259 0.83 RecF/RecN/SMC N terminal domain
-SMC_N                PF02463.17   220 sp_Q9UNQ0_ABCG2_HUMAN -            780   7.6e-05   22.1   1.2   3   3       1.1   1.8e+03   -2.0   0.0   128   143   343   358   305   360 0.78 RecF/RecN/SMC N terminal domain
-ABC2_membrane_3      PF12698.5    345 sp_Q9UNQ0_ABCG2_HUMAN -            780   8.5e-05   21.7  22.4   1   1   2.2e-07   0.00035   19.7  22.4   183   344   448   645   287   646 0.78 ABC-2 family transporter protein
-AAA_23               PF13476.4    200 sp_Q9UNQ0_ABCG2_HUMAN -            780    0.0011   19.3   0.8   1   2   2.1e-06    0.0034   17.8   0.2    18    39    72    93    60    95 0.90 AAA domain
-AAA_23               PF13476.4    200 sp_Q9UNQ0_ABCG2_HUMAN -            780    0.0011   19.3   0.8   2   2       1.2   1.9e+03   -1.0   0.0   154   176   311   343   207   378 0.63 AAA domain
-DUF258               PF03193.14   167 sp_Q9UNQ0_ABCG2_HUMAN -            780     0.038   13.8   0.0   1   1   6.1e-05       0.1   12.4   0.0    87   122    61    96    48   104 0.86 Protein of unknown function, DUF258
-SbcCD_C              PF13558.4     90 sp_Q9UNQ0_ABCG2_HUMAN -            780     0.046   13.8   0.1   1   2    0.0054       8.8    6.5   0.0    63    89   203   229   182   230 0.89 Putative exonuclease SbcCD, C subunit
-SbcCD_C              PF13558.4     90 sp_Q9UNQ0_ABCG2_HUMAN -            780     0.046   13.8   0.1   2   2     0.029        47    4.2   0.0    24    43   343   362   333   376 0.83 Putative exonuclease SbcCD, C subunit
-AAA_29               PF13555.4     61 sp_Q9UNQ0_ABCG2_HUMAN -            780     0.084   12.5   0.1   1   1   0.00012       0.2   11.3   0.1    24    42    75    93    68    97 0.84 P-loop containing region of AAA domain
-SpecificRecomb       PF10136.7    641 sp_Q9UNQ0_ABCG2_HUMAN -            780       7.3    4.6   8.3   1   1    0.0069        11    4.0   8.3   538   600   495   556   483   563 0.92 Site-specific recombinase
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   1  13      0.13   1.8e+02    2.2   0.1    13    33   152   172   149   179 0.90 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   2  13      0.28   3.7e+02    1.2   0.0    14    40   195   222   188   223 0.86 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   3  13   4.5e-09   6.1e-06   26.0   0.0     6    39   229   262   224   263 0.93 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   4  13      0.17   2.4e+02    1.9   0.0     7    38   272   303   267   306 0.78 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   5  13      0.77   1.1e+03   -0.2   0.0     1    21   308   328   308   332 0.83 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   6  13   6.3e-11   8.5e-08   31.8   0.1     2    40   351   389   350   390 0.95 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   7  13   1.9e-05     0.026   14.4   0.3    12    40   400   428   397   429 0.93 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   8  13   3.8e-08   5.2e-05   23.0   0.0     3    41   433   473   431   473 0.95 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2   9  13         2   2.8e+03   -1.5   0.0    13    39   490   517   488   518 0.64 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2  10  13   0.00086       1.2    9.2   0.0     8    25   527   546   521   550 0.80 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2  11  13       0.9   1.2e+03   -0.4   0.0    26    41   567   582   565   582 0.88 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2  12  13   5.6e-09   7.5e-06   25.7   0.1     2    40   584   622   583   623 0.95 Armadillo/beta-catenin-like repeat
+Arm                  PF00514.21    41 sp_P35222_CTNB1_HUMAN -            781   2.9e-43  144.5  19.2  13  13    0.0028       3.9    7.5   0.0    11    36   634   659   628   664 0.90 Armadillo/beta-catenin-like repeat
+Cnd1                 PF12717.5    162 sp_P35222_CTNB1_HUMAN -            781   3.4e-09   36.8   2.4   1   5   2.3e-06    0.0031   17.4   0.3    47   110   138   204   133   226 0.77 non-SMC mitotic condensation complex subunit 1
+Cnd1                 PF12717.5    162 sp_P35222_CTNB1_HUMAN -            781   3.4e-09   36.8   2.4   2   5       4.3   5.9e+03   -3.0   0.0    70    89   247   266   231   312 0.49 non-SMC mitotic condensation complex subunit 1
+Cnd1                 PF12717.5    162 sp_P35222_CTNB1_HUMAN -            781   3.4e-09   36.8   2.4   3   5    0.0065       8.9    6.2   0.0    52    89   355   392   340   408 0.82 non-SMC mitotic condensation complex subunit 1
+Cnd1                 PF12717.5    162 sp_P35222_CTNB1_HUMAN -            781   3.4e-09   36.8   2.4   4   5     0.026        36    4.2   0.1    16    92   395   478   384   493 0.75 non-SMC mitotic condensation complex subunit 1
+Cnd1                 PF12717.5    162 sp_P35222_CTNB1_HUMAN -            781   3.4e-09   36.8   2.4   5   5    0.0073        10    6.0   0.0    36   103   609   681   595   694 0.78 non-SMC mitotic condensation complex subunit 1
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   1   6    0.0054       7.3    7.0   0.1    18    48   141   171   132   175 0.81 HEAT-like repeat
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   2   6      0.65   8.8e+02    0.4   0.0    26    52   191   218   182   221 0.82 HEAT-like repeat
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   3   6      0.11   1.5e+02    2.9   0.0    16    44   223   251   211   262 0.79 HEAT-like repeat
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   4   6     0.021        29    5.1   0.1    30    55   363   388   342   388 0.89 HEAT-like repeat
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   5   6   0.00079       1.1    9.7   0.0    28    55   400   427   393   427 0.90 HEAT-like repeat
+HEAT_EZ              PF13513.4     55 sp_P35222_CTNB1_HUMAN -            781   4.8e-07   30.0   6.8   6   6      0.27   3.6e+02    1.6   0.1    10    34   518   541   511   553 0.76 HEAT-like repeat
+HEAT                 PF02985.20    31 sp_P35222_CTNB1_HUMAN -            781     1e-06   28.3   1.5   1   5     0.025        34    4.9   0.0     2    22   153   173   152   181 0.80 HEAT repeat
+HEAT                 PF02985.20    31 sp_P35222_CTNB1_HUMAN -            781     1e-06   28.3   1.5   2   5     0.011        15    6.0   0.0     2    28   237   263   237   266 0.92 HEAT repeat
+HEAT                 PF02985.20    31 sp_P35222_CTNB1_HUMAN -            781     1e-06   28.3   1.5   3   5     0.072        98    3.5   0.0     8    28   369   389   363   391 0.87 HEAT repeat
+HEAT                 PF02985.20    31 sp_P35222_CTNB1_HUMAN -            781     1e-06   28.3   1.5   4   5      0.18   2.5e+02    2.2   0.0     1    27   401   427   401   428 0.89 HEAT repeat
+HEAT                 PF02985.20    31 sp_P35222_CTNB1_HUMAN -            781     1e-06   28.3   1.5   5   5     0.021        28    5.2   0.0     2    29   596   623   595   624 0.95 HEAT repeat
+Adaptin_N            PF01602.18   524 sp_P35222_CTNB1_HUMAN -            781   1.3e-06   27.1   2.1   1   3   5.8e-07   0.00078   18.0   1.1   142   290   142   298   125   311 0.78 Adaptin N terminal region
+Adaptin_N            PF01602.18   524 sp_P35222_CTNB1_HUMAN -            781   1.3e-06   27.1   2.1   2   3     0.061        84    1.4   0.0   151   184   398   432   363   481 0.76 Adaptin N terminal region
+Adaptin_N            PF01602.18   524 sp_P35222_CTNB1_HUMAN -            781   1.3e-06   27.1   2.1   3   3    0.0069       9.3    4.5   0.0    88   161   603   682   592   693 0.57 Adaptin N terminal region
+HEAT_2               PF13646.4     88 sp_P35222_CTNB1_HUMAN -            781   1.9e-06   28.0   6.8   1   5   2.1e-05     0.029   14.6   0.3     3    74   120   205   118   217 0.68 HEAT repeats
+HEAT_2               PF13646.4     88 sp_P35222_CTNB1_HUMAN -            781   1.9e-06   28.0   6.8   2   5       1.1   1.5e+03   -0.5   0.0    33    55   237   259   203   286 0.73 HEAT repeats
+HEAT_2               PF13646.4     88 sp_P35222_CTNB1_HUMAN -            781   1.9e-06   28.0   6.8   3   5      0.02        27    5.1   0.0     8    56   370   425   363   438 0.75 HEAT repeats
+HEAT_2               PF13646.4     88 sp_P35222_CTNB1_HUMAN -            781   1.9e-06   28.0   6.8   4   5      0.42   5.7e+02    0.9   0.0    26    49   526   549   491   553 0.69 HEAT repeats
+HEAT_2               PF13646.4     88 sp_P35222_CTNB1_HUMAN -            781   1.9e-06   28.0   6.8   5   5     0.011        15    5.9   0.2    31    84   594   656   575   661 0.65 HEAT repeats
+KAP                  PF05804.10   708 sp_P35222_CTNB1_HUMAN -            781   0.00012   20.2   1.4   1   3     0.027        37    2.1   0.1   578   635   153   208   146   230 0.75 Kinesin-associated protein (KAP)
+KAP                  PF05804.10   708 sp_P35222_CTNB1_HUMAN -            781   0.00012   20.2   1.4   2   3   2.3e-05     0.031   12.3   0.0   305   436   335   466   322   500 0.77 Kinesin-associated protein (KAP)
+KAP                  PF05804.10   708 sp_P35222_CTNB1_HUMAN -            781   0.00012   20.2   1.4   3   3     0.073        99    0.7   0.0   308   392   508   591   473   627 0.71 Kinesin-associated protein (KAP)
+Atx10homo_assoc      PF09759.7     99 sp_P35222_CTNB1_HUMAN -            781   0.00069   19.5   1.5   1   4       1.2   1.6e+03   -0.9   0.1    50    68   256   274   253   317 0.50 Spinocerebellar ataxia type 10 protein domain
+Atx10homo_assoc      PF09759.7     99 sp_P35222_CTNB1_HUMAN -            781   0.00069   19.5   1.5   2   4       2.7   3.7e+03   -2.1   0.0    46    59   378   391   368   404 0.62 Spinocerebellar ataxia type 10 protein domain
+Atx10homo_assoc      PF09759.7     99 sp_P35222_CTNB1_HUMAN -            781   0.00069   19.5   1.5   3   4   7.8e-06     0.011   15.7   0.2     8    63   423   478   419   487 0.91 Spinocerebellar ataxia type 10 protein domain
+Atx10homo_assoc      PF09759.7     99 sp_P35222_CTNB1_HUMAN -            781   0.00069   19.5   1.5   4   4      0.64   8.7e+02   -0.0   0.0    17    56   479   517   476   529 0.80 Spinocerebellar ataxia type 10 protein domain
+DUF3361              PF11841.6    154 sp_P35222_CTNB1_HUMAN -            781   0.00075   19.3   2.8   1   5      0.33   4.5e+02    0.6   0.3    95   126   233   264   129   292 0.64 Domain of unknown function (DUF3361)
+DUF3361              PF11841.6    154 sp_P35222_CTNB1_HUMAN -            781   0.00075   19.3   2.8   2   5      0.13   1.8e+02    1.9   0.0     8    79   233   304   228   336 0.74 Domain of unknown function (DUF3361)
+DUF3361              PF11841.6    154 sp_P35222_CTNB1_HUMAN -            781   0.00075   19.3   2.8   3   5       0.4   5.5e+02    0.3   0.0    89   132   354   396   338   407 0.74 Domain of unknown function (DUF3361)
+DUF3361              PF11841.6    154 sp_P35222_CTNB1_HUMAN -            781   0.00075   19.3   2.8   4   5     0.036        49    3.7   0.0    67   130   412   477   402   489 0.78 Domain of unknown function (DUF3361)
+DUF3361              PF11841.6    154 sp_P35222_CTNB1_HUMAN -            781   0.00075   19.3   2.8   5   5    0.0012       1.7    8.5   0.0    69   146   608   684   594   688 0.90 Domain of unknown function (DUF3361)
+Arm_2                PF04826.11   254 sp_P35222_CTNB1_HUMAN -            781     0.011   15.1   3.6   1   3     0.054        74    2.5   1.5     8    86   147   226   140   337 0.74 Armadillo-like
+Arm_2                PF04826.11   254 sp_P35222_CTNB1_HUMAN -            781     0.011   15.1   3.6   2   3   0.00041      0.56    9.5   0.0    42   135   349   440   309   458 0.87 Armadillo-like
+Arm_2                PF04826.11   254 sp_P35222_CTNB1_HUMAN -            781     0.011   15.1   3.6   3   3      0.26   3.6e+02    0.3   0.0   134   187   594   647   577   666 0.75 Armadillo-like
+Queuosine_synth      PF02547.13   325 sp_P35222_CTNB1_HUMAN -            781     0.015   14.3   0.5   1   2   2.4e-05     0.032   13.2   0.1    26   104   139   213   114   253 0.70 Queuosine biosynthesis protein
+Queuosine_synth      PF02547.13   325 sp_P35222_CTNB1_HUMAN -            781     0.015   14.3   0.5   2   2       1.7   2.3e+03   -2.8   0.0   206   253   523   568   521   582 0.70 Queuosine biosynthesis protein
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   1   7       9.2   1.2e+04   -3.5   0.1    78    96    58    76    52    77 0.75 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   2   7    0.0083        11    6.2   0.1     7    46   153   191   148   212 0.83 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   3   7       0.1   1.4e+02    2.8   0.0     6    69   236   299   232   312 0.89 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   4   7       9.3   1.3e+04   -3.6   0.0     7    33   363   389   362   396 0.73 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   5   7         1   1.4e+03   -0.5   0.0    10    43   405   439   401   449 0.82 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   6   7       5.1     7e+03   -2.7   0.0     7    44   444   483   439   500 0.70 Rapamycin-insensitive companion of mTOR RasGEF_N domain
+RasGEF_N_2           PF14663.4    108 sp_P35222_CTNB1_HUMAN -            781     0.058   13.6  10.8   7   7    0.0039       5.3    7.3   0.0     6    42   595   631   594   649 0.91 Rapamycin-insensitive companion of mTOR RasGEF_N domain
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -25,5 +70,5 @@ SpecificRecomb       PF10136.7    641 sp_Q9UNQ0_ABCG2_HUMAN -            780    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P35222_CTNB1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:25:06 2016
+# Date:            Sat Sep 10 08:13:55 2016
 # [ok]

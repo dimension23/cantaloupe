@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Anoctamin            PF04547.10   435 sp_Q6IWH7_ANO7_HUMAN -           1254  1.2e-162  541.5   6.5   1   2       1.4   2.8e+03   -3.4   0.0    45    64   161   180   150   181 0.80 Calcium-activated chloride channel
+Anoctamin            PF04547.10   435 sp_Q6IWH7_ANO7_HUMAN -           1254  1.2e-162  541.5   6.5   2   2  6.6e-166  1.3e-162  541.4   5.3     1   435   335   886   335   886 0.91 Calcium-activated chloride channel
+Anoct_dimer          PF16178.3    227 sp_Q6IWH7_ANO7_HUMAN -           1254   2.1e-58  197.6   0.0   1   1   1.6e-61   3.2e-58  197.0   0.0     7   227   108   332   105   332 0.94 Dimerisation domain of Ca+-activated chloride-channel, anoctamin
+SEA                  PF01390.18   106 sp_Q6IWH7_ANO7_HUMAN -           1254   3.3e-13   49.7   1.0   1   1   3.1e-16   6.2e-13   48.8   1.0     3    90  1042  1122  1040  1136 0.86 SEA domain
+DUF912               PF06024.10   103 sp_Q6IWH7_ANO7_HUMAN -           1254     0.053   13.7   0.1   1   2    0.0048       9.8    6.4   0.0    61    88   498   524   457   538 0.60 Nucleopolyhedrovirus protein of unknown function (DUF912)
+DUF912               PF06024.10   103 sp_Q6IWH7_ANO7_HUMAN -           1254     0.053   13.7   0.1   2   2     0.024        49    4.2   0.0    68    87  1160  1178  1104  1194 0.73 Nucleopolyhedrovirus protein of unknown function (DUF912)
+TMEM223              PF14640.4    165 sp_Q6IWH7_ANO7_HUMAN -           1254      0.12   12.4   0.1   1   2       1.2   2.4e+03   -1.6   0.0    65   114   342   393   332   400 0.79 Transmembrane protein 223
+TMEM223              PF14640.4    165 sp_Q6IWH7_ANO7_HUMAN -           1254      0.12   12.4   0.1   2   2   0.00031      0.63   10.1   0.1     6    98   418   536   416   573 0.66 Transmembrane protein 223
+Gemini_mov           PF01708.14    92 sp_Q6IWH7_ANO7_HUMAN -           1254      0.22   11.2   4.1   1   3       5.9   1.2e+04   -4.0   0.1    38    57   422   441   415   445 0.76 Geminivirus putative movement protein
+Gemini_mov           PF01708.14    92 sp_Q6IWH7_ANO7_HUMAN -           1254      0.22   11.2   4.1   2   3    0.0074        15    5.3   0.0    37    71   499   533   470   536 0.79 Geminivirus putative movement protein
+Gemini_mov           PF01708.14    92 sp_Q6IWH7_ANO7_HUMAN -           1254      0.22   11.2   4.1   3   3    0.0066        13    5.5   0.3    15    55  1140  1179  1127  1184 0.74 Geminivirus putative movement protein
+Collectrin           PF16959.3    154 sp_Q6IWH7_ANO7_HUMAN -           1254      0.29   10.7   0.0   1   2         8   1.6e+04   -5.2   5.2   123   144   502   523   496   532 0.61 Renal amino acid transporter
+Collectrin           PF16959.3    154 sp_Q6IWH7_ANO7_HUMAN -           1254      0.29   10.7   0.0   2   2   0.00014      0.29   10.7   0.0    76   154  1108  1187  1088  1188 0.87 Renal amino acid transporter
+Shisa                PF13908.4    190 sp_Q6IWH7_ANO7_HUMAN -           1254       3.6    7.6   8.6   1   3      0.05     1e+02    2.9   0.0    94   110   502   518   456   531 0.71 Wnt and FGF inhibitory regulator
+Shisa                PF13908.4    190 sp_Q6IWH7_ANO7_HUMAN -           1254       3.6    7.6   8.6   2   3       2.5     5e+03   -2.6   4.4   123   163   991  1030   961  1041 0.50 Wnt and FGF inhibitory regulator
+Shisa                PF13908.4    190 sp_Q6IWH7_ANO7_HUMAN -           1254       3.6    7.6   8.6   3   3    0.0035       7.1    6.7   0.0    82   174  1158  1241  1114  1253 0.61 Wnt and FGF inhibitory regulator
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q6IWH7_ANO7_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:21:29 2016
+# [ok]

@@ -1,10 +1,14 @@
-#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
-# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
-#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
-DUF4407              PF14362.4    298 sp_Q8NG31_CASC5_HUMAN -           2342         5    6.2   9.7   1   2      0.31   2.5e+03   -2.6   0.5   119   222  1760  1798  1742  1834 0.42 Domain of unknown function (DUF4407)
-DUF4407              PF14362.4    298 sp_Q8NG31_CASC5_HUMAN -           2342         5    6.2   9.7   2   2   2.6e-05      0.21   10.8   3.1   131   275  2020  2161  1977  2173 0.73 Domain of unknown function (DUF4407)
-DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342       7.6    6.9   8.5   1   2   0.00091       7.4    6.9   0.2    10    40   804   836   803   837 0.79 DASH complex subunit Hsk3 like
-DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342       7.6    6.9   8.5   2   2     0.038   3.1e+02    1.7   3.3     4    36  2085  2117  2082  2118 0.85 DASH complex subunit Hsk3 like
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase_Tyr          PF07714.15   260 sp_P07949_RET_HUMAN  -           1821  2.4e-101  338.3   0.0   1   2  2.1e-104  1.1e-100  336.0   0.0     1   260   724  1005   724  1005 0.99 Protein tyrosine kinase
+Pkinase_Tyr          PF07714.15   260 sp_P07949_RET_HUMAN  -           1821  2.4e-101  338.3   0.0   2   2      0.67   3.6e+03   -3.2   1.0   208   249  1347  1388  1341  1397 0.81 Protein tyrosine kinase
+Pkinase              PF00069.23   264 sp_P07949_RET_HUMAN  -           1821     1e-43  149.5   0.1   1   2   9.6e-47   5.2e-43  147.2   0.0     4   259   727  1002   724  1005 0.84 Protein kinase domain
+Pkinase              PF00069.23   264 sp_P07949_RET_HUMAN  -           1821     1e-43  149.5   0.1   2   2       1.7   9.5e+03   -4.5   1.9    43    66  1301  1324  1282  1392 0.55 Protein kinase domain
+Cadherin             PF00028.15    93 sp_P07949_RET_HUMAN  -           1821   8.9e-17   61.2   0.0   1   4     0.067   3.6e+02    1.5   0.0    36    61    79   103    64   112 0.80 Cadherin domain
+Cadherin             PF00028.15    93 sp_P07949_RET_HUMAN  -           1821   8.9e-17   61.2   0.0   2   4   3.6e-14     2e-10   40.8   0.0     2    88   173   256   172   262 0.88 Cadherin domain
+Cadherin             PF00028.15    93 sp_P07949_RET_HUMAN  -           1821   8.9e-17   61.2   0.0   3   4    0.0045        24    5.3   0.0    10    92   288   395   280   396 0.79 Cadherin domain
+Cadherin             PF00028.15    93 sp_P07949_RET_HUMAN  -           1821   8.9e-17   61.2   0.0   4   4    0.0013       7.2    7.0   0.0    53    92   467   504   435   505 0.77 Cadherin domain
 #
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
@@ -13,5 +17,5 @@ DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P07949_RET_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:09 2016
+# Date:            Sat Sep 10 08:15:50 2016
 # [ok]

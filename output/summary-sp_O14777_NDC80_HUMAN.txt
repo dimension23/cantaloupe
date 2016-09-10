@@ -63,5 +63,5 @@ Cluap1               PF10234.7    268 sp_O14777_NDC80_HUMAN -            642    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_O14777_NDC80_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:25:36 2016
+# Date:            Sat Sep 10 08:15:56 2016
 # [ok]

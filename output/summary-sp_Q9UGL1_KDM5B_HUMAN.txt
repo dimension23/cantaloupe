@@ -33,5 +33,5 @@ Lipoprotein_20       PF13942.4    175 sp_Q9UGL1_KDM5B_HUMAN -           1544    
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9UGL1_KDM5B_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:26:36 2016
+# Date:            Sat Sep 10 08:17:20 2016
 # [ok]

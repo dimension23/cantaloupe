@@ -1,0 +1,30 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF3513              PF12026.6    195 sp_P56945_BCAR1_HUMAN -            870   4.1e-76  255.2   0.0   1   1   3.9e-79     7e-76  254.4   0.0     2   195   655   864   654   864 0.90 Domain of unknown function (DUF3513)
+Serine_rich          PF08824.8    157 sp_P56945_BCAR1_HUMAN -            870   1.7e-43  148.2   1.7   1   2   9.9e-47   1.8e-43  148.1   0.2     1   156   454   607   454   608 0.95 Serine rich protein interaction domain
+Serine_rich          PF08824.8    157 sp_P56945_BCAR1_HUMAN -            870   1.7e-43  148.2   1.7   2   2       1.7   3.1e+03   -2.1   0.1    40   101   803   865   800   869 0.74 Serine rich protein interaction domain
+SH3_1                PF00018.26    48 sp_P56945_BCAR1_HUMAN -            870     1e-13   50.5   0.0   1   1   1.1e-16     2e-13   49.6   0.0     1    47     9    56     9    57 0.96 SH3 domain
+SH3_9                PF14604.4     49 sp_P56945_BCAR1_HUMAN -            870   8.1e-13   47.9   0.0   1   3   4.5e-16   8.1e-13   47.9   0.0     1    46    10    58    10    61 0.92 Variant SH3 domain
+SH3_9                PF14604.4     49 sp_P56945_BCAR1_HUMAN -            870   8.1e-13   47.9   0.0   2   3       3.4   6.1e+03   -3.0   0.0    40    47   255   262   254   262 0.91 Variant SH3 domain
+SH3_9                PF14604.4     49 sp_P56945_BCAR1_HUMAN -            870   8.1e-13   47.9   0.0   3   3       6.4   1.2e+04   -3.8   0.2    26    33   655   662   654   662 0.81 Variant SH3 domain
+SH3_2                PF07653.15    55 sp_P56945_BCAR1_HUMAN -            870   1.2e-10   40.8   0.0   1   1   1.2e-13   2.2e-10   39.9   0.0     2    52     8    60     7    63 0.85 Variant SH3 domain
+Vinculin             PF01044.17   968 sp_P56945_BCAR1_HUMAN -            870    0.0072   14.5   0.1   1   1   6.2e-06     0.011   13.8   0.1    26    95   492   564   479   586 0.87 Vinculin family
+Alanine_zipper       PF11839.6     97 sp_P56945_BCAR1_HUMAN -            870      0.12   12.6   1.0   1   1   0.00016      0.29   11.3   1.0     6    78   471   541   468   553 0.85 Alanine-zipper, major outer membrane lipoprotein
+Acyl-CoA_dh_C        PF12806.5    124 sp_P56945_BCAR1_HUMAN -            870       2.4    8.2   7.9   1   4       2.1   3.9e+03   -2.2   0.0    14    40   456   482   445   489 0.73 Acetyl-CoA dehydrogenase C-terminal like
+Acyl-CoA_dh_C        PF12806.5    124 sp_P56945_BCAR1_HUMAN -            870       2.4    8.2   7.9   2   4     0.016        28    4.7   1.2    15    56   498   538   470   540 0.81 Acetyl-CoA dehydrogenase C-terminal like
+Acyl-CoA_dh_C        PF12806.5    124 sp_P56945_BCAR1_HUMAN -            870       2.4    8.2   7.9   3   4      0.37   6.6e+02    0.3   0.1    16    52   536   572   527   573 0.86 Acetyl-CoA dehydrogenase C-terminal like
+Acyl-CoA_dh_C        PF12806.5    124 sp_P56945_BCAR1_HUMAN -            870       2.4    8.2   7.9   4   4    0.0088        16    5.5   0.1    17    79   747   811   739   837 0.84 Acetyl-CoA dehydrogenase C-terminal like
+I_LWEQ               PF01608.15   153 sp_P56945_BCAR1_HUMAN -            870       2.9    8.0   5.8   1   3    0.0011       2.1    8.5   1.7    64   110   494   534   455   566 0.68 I/LWEQ domain
+I_LWEQ               PF01608.15   153 sp_P56945_BCAR1_HUMAN -            870       2.9    8.0   5.8   2   3       0.8   1.5e+03   -0.8   0.1    36    57   566   594   541   597 0.68 I/LWEQ domain
+I_LWEQ               PF01608.15   153 sp_P56945_BCAR1_HUMAN -            870       2.9    8.0   5.8   3   3       1.7     3e+03   -1.8   0.1    18    53   812   857   759   862 0.66 I/LWEQ domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P11362_FGFR1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:15:20 2016
+# [ok]

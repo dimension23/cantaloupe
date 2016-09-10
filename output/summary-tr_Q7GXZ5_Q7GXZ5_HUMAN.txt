@@ -1,0 +1,17 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Oxidored_q4          PF00507.17    99 tr_Q7GXZ5_Q7GXZ5_HUMAN -            115   9.4e-27   92.9   2.9   1   1   1.4e-30   1.2e-26   92.7   2.9     2    99    15   113     3   113 0.92 NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+SHP                  PF03579.11    64 tr_Q7GXZ5_Q7GXZ5_HUMAN -            115     0.027   14.3   0.3   1   3   3.3e-06     0.027   14.3   0.3    18    49     3    35     1    40 0.83 Small hydrophobic protein
+SHP                  PF03579.11    64 tr_Q7GXZ5_Q7GXZ5_HUMAN -            115     0.027   14.3   0.3   2   3      0.86     7e+03   -3.1   0.2    34    35    60    61    51    73 0.49 Small hydrophobic protein
+SHP                  PF03579.11    64 tr_Q7GXZ5_Q7GXZ5_HUMAN -            115     0.027   14.3   0.3   3   3     0.045   3.7e+02    1.1   0.7    26    36    88    98    77   106 0.61 Small hydrophobic protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-tr_Q7GXZ5_Q7GXZ5_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:24:18 2016
+# [ok]

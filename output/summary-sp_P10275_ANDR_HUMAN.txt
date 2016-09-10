@@ -22,5 +22,5 @@ PAT1                 PF09770.7    856 sp_P10275_ANDR_HUMAN -            920     
 # Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
 # Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P10275_ANDR_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
 # Current dir:     /home/cloudera/cantaloupe/tests
-# Date:            Sat Sep 10 07:25:21 2016
+# Date:            Sat Sep 10 08:14:15 2016
 # [ok]

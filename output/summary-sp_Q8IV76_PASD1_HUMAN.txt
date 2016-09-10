@@ -1,0 +1,21 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+PAS                  PF00989.23   113 sp_Q8IV76_PASD1_HUMAN -            773   0.00023   21.0   8.0   1   3   9.5e-08   0.00039   20.3   0.0     4    78    35   109    32   122 0.88 PAS fold
+PAS                  PF00989.23   113 sp_Q8IV76_PASD1_HUMAN -            773   0.00023   21.0   8.0   2   3     0.091   3.7e+02    1.0   3.0    49    81   482   515   465   538 0.75 PAS fold
+PAS                  PF00989.23   113 sp_Q8IV76_PASD1_HUMAN -            773   0.00023   21.0   8.0   3   3      0.18   7.5e+02    0.0   0.3    38    98   546   604   543   610 0.82 PAS fold
+PAS_4                PF08448.8    110 sp_Q8IV76_PASD1_HUMAN -            773     0.016   15.3   0.1   1   2   1.9e-05     0.078   13.1   0.0     9    52    46    89    39   119 0.89 PAS fold
+PAS_4                PF08448.8    110 sp_Q8IV76_PASD1_HUMAN -            773     0.016   15.3   0.1   2   2       1.1   4.7e+03   -2.3   0.5    44    67   488   511   476   514 0.78 PAS fold
+PAS_9                PF13426.5    102 sp_Q8IV76_PASD1_HUMAN -            773      0.31   11.2   1.8   1   2   0.00013      0.55   10.4   0.0     2    53    42    93    41   137 0.79 PAS domain
+PAS_9                PF13426.5    102 sp_Q8IV76_PASD1_HUMAN -            773      0.31   11.2   1.8   2   2       1.2     5e+03   -2.3   0.8    44    62   490   513   470   542 0.59 PAS domain
+DDHD                 PF02862.15   240 sp_Q8IV76_PASD1_HUMAN -            773       4.3    7.3  13.3   1   1    0.0021       8.4    6.3  13.3   104   208   481   590   377   600 0.54 DDHD domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q8IV76_PASD1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:23:03 2016
+# [ok]

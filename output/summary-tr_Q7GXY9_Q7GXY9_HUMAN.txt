@@ -1,0 +1,21 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name             accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----   -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Proton_antipo_M      PF00361.18   293 tr_Q7GXY9_Q7GXY9_HUMAN -            347   1.1e-38  132.9  31.4   1   1   2.4e-42     2e-38  132.1  31.4     1   289    23   284    23   288 0.89 Proton-conducting membrane transporter
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   1   7      0.22   1.8e+03   -0.6   0.2    33    50    56    73    35    76 0.57 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   2   7         2   1.6e+04   -4.0   7.9    19    43    77   102    67   111 0.61 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   3   7     0.025     2e+02    2.4   1.4    25    47   142   164   128   164 0.77 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   4   7         2   1.6e+04   -5.0   9.4    18    48   199   219   179   234 0.48 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   5   7      0.93   7.5e+03   -2.6   6.4    26    49   234   255   216   261 0.63 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   6   7     0.084   6.8e+02    0.7   0.3    31    48   271   288   263   289 0.69 NADH dehydrogenase subunit 2 C-terminus
+NADH_dehy_S2_C       PF06444.9     55 tr_Q7GXY9_Q7GXY9_HUMAN -            347   3.8e-20   72.0  12.9   7   7   4.6e-24   3.8e-20   72.0  12.9     1    54   290   343   290   344 0.98 NADH dehydrogenase subunit 2 C-terminus
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-tr_Q7GXY9_Q7GXY9_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:24:19 2016
+# [ok]

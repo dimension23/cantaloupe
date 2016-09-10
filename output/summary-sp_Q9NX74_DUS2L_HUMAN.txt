@@ -1,0 +1,18 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Dus                  PF01207.15   310 sp_Q9NX74_DUS2L_HUMAN -            493   1.1e-53  182.3   0.2   1   1   4.1e-57   1.7e-53  181.6   0.2     1   258    15   285    15   342 0.83 Dihydrouridine synthase (Dus)
+dsrm                 PF00035.24    67 sp_Q9NX74_DUS2L_HUMAN -            493   4.4e-07   30.3   0.0   1   1   2.6e-10   1.1e-06   29.1   0.0     1    65   370   432   370   433 0.87 Double-stranded RNA binding motif
+His_biosynth         PF00977.19   229 sp_Q9NX74_DUS2L_HUMAN -            493      0.01   15.2   0.0   1   1   4.5e-06     0.018   14.4   0.0    57   110   192   250   154   264 0.65 Histidine biosynthesis protein
+TMP-TENI             PF02581.15   181 sp_Q9NX74_DUS2L_HUMAN -            493     0.086   12.0   0.0   1   2   8.7e-05      0.35   10.0   0.0   132   161   189   219   164   244 0.81 Thiamine monophosphate synthase/TENI
+TMP-TENI             PF02581.15   181 sp_Q9NX74_DUS2L_HUMAN -            493     0.086   12.0   0.0   2   2      0.66   2.7e+03   -2.6   0.0   109   132   303   326   290   335 0.70 Thiamine monophosphate synthase/TENI
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q9NX74_DUS2L_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 08:23:24 2016
+# [ok]
