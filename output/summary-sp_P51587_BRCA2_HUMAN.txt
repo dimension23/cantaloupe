@@ -1,0 +1,27 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BRCA-2_helical       PF09169.8    187 sp_P51587_BRCA2_HUMAN -           3418   1.1e-96  321.7   0.2   1   2     0.031     1e+02    2.4   0.2    11    86   819   896   812   921 0.79 BRCA2, helical
+BRCA-2_helical       PF09169.8    187 sp_P51587_BRCA2_HUMAN -           3418   1.1e-96  321.7   0.2   2   2   2.2e-98   7.2e-95  315.8   0.0     2   187  2482  2667  2481  2667 0.99 BRCA2, helical
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   1   8     1e-14   3.4e-11   42.3   1.9     1    33  1003  1035  1003  1035 0.98 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   2   8   3.2e-16   1.1e-12   47.1   0.1     1    33  1213  1245  1213  1245 0.97 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   3   8     2e-13   6.4e-10   38.2   0.6     1    32  1422  1453  1422  1454 0.95 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   4   8   1.4e-16   4.4e-13   48.3   0.2     1    33  1518  1550  1518  1550 0.96 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   5   8   5.6e-14   1.8e-10   39.9   0.1     1    31  1665  1695  1665  1696 0.97 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   6   8   6.4e-09   2.1e-05   23.8   0.0     1    31  1838  1868  1838  1869 0.91 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   7   8   4.2e-15   1.4e-11   43.6   0.1     2    33  1973  2004  1973  2004 0.98 BRCA2 repeat
+BRCA2                PF00634.16    33 sp_P51587_BRCA2_HUMAN -           3418   5.7e-90  294.3  35.7   8   8   5.1e-11   1.7e-07   30.5   1.5     2    32  2053  2083  2052  2084 0.94 BRCA2 repeat
+BRCA-2_OB3           PF09104.8    139 sp_P51587_BRCA2_HUMAN -           3418   1.2e-53  180.4   0.1   1   2      0.25   8.3e+02   -0.5   0.0    93   120  1579  1606  1552  1611 0.84 BRCA2, oligonucleotide/oligosaccharide-binding, domain 3
+BRCA-2_OB3           PF09104.8    139 sp_P51587_BRCA2_HUMAN -           3418   1.2e-53  180.4   0.1   2   2   4.6e-56   1.5e-52  176.8   0.0     1   138  3052  3185  3052  3186 0.99 BRCA2, oligonucleotide/oligosaccharide-binding, domain 3
+BRCA-2_OB1           PF09103.8    124 sp_P51587_BRCA2_HUMAN -           3418     9e-42  141.8   0.0   1   1   1.2e-44   3.9e-41  139.7   0.0     1   122  2670  2794  2670  2796 0.95 BRCA2, oligonucleotide/oligosaccharide-binding, domain 1
+Tower                PF09121.8     42 sp_P51587_BRCA2_HUMAN -           3418   2.5e-20   72.3   5.6   1   1   2.5e-23   8.1e-20   70.6   5.6     1    42  2831  2872  2831  2872 0.99 Tower
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P51587_BRCA2_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 07:26:13 2016
+# [ok]

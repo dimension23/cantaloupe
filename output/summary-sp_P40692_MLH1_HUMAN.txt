@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Mlh1_C               PF16413.3    272 sp_P40692_MLH1_HUMAN -            756   3.5e-95  318.3   0.0   1   1   1.6e-98   6.5e-95  317.4   0.0     1   272   502   756   502   756 0.94 DNA mismatch repair protein Mlh1 C-terminus
+DNA_mis_repair       PF01119.17   119 sp_P40692_MLH1_HUMAN -            756   2.6e-35  120.5   0.3   1   1   1.1e-38   4.6e-35  119.7   0.3     1   118   216   334   216   335 0.97 DNA mismatch repair protein, C-terminal domain
+HATPase_c_3          PF13589.4    137 sp_P40692_MLH1_HUMAN -            756     4e-14   52.5   0.1   1   1   2.3e-17   9.2e-14   51.3   0.1     4   106    29   131    25   138 0.89 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+HATPase_c            PF02518.24   111 sp_P40692_MLH1_HUMAN -            756     4e-07   30.5   0.0   1   1   2.5e-10     1e-06   29.2   0.0     6    70    28    96    23   156 0.64 Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P40692_MLH1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 07:26:26 2016
+# [ok]

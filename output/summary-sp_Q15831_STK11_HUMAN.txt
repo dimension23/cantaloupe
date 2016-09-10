@@ -1,0 +1,21 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.23   264 sp_Q15831_STK11_HUMAN -            433   6.2e-58  196.1   0.0   1   1   2.3e-61   7.6e-58  195.8   0.0     5   264    53   309    49   309 0.90 Protein kinase domain
+Pkinase_Tyr          PF07714.15   260 sp_Q15831_STK11_HUMAN -            433   2.3e-35  122.0   0.0   1   1     1e-38   3.3e-35  121.5   0.0     4   258    52   305    50   306 0.90 Protein tyrosine kinase
+Kinase-like          PF14531.4    288 sp_Q15831_STK11_HUMAN -            433     5e-11   42.3   0.0   1   2     0.079   2.6e+02    0.6   0.1    16    76    51   112    44   119 0.77 Kinase-like
+Kinase-like          PF14531.4    288 sp_Q15831_STK11_HUMAN -            433     5e-11   42.3   0.0   2   2   1.5e-13   4.7e-10   39.1   0.0   128   288   137   297   122   297 0.78 Kinase-like
+APH                  PF01636.21   240 sp_Q15831_STK11_HUMAN -            433      0.02   14.7   0.1   1   3     0.041   1.3e+02    2.2   0.0    25    76    85   131    55   133 0.77 Phosphotransferase enzyme family
+APH                  PF01636.21   240 sp_Q15831_STK11_HUMAN -            433      0.02   14.7   0.1   2   3   0.00028      0.93    9.2   0.0   164   185   168   188   136   203 0.82 Phosphotransferase enzyme family
+APH                  PF01636.21   240 sp_Q15831_STK11_HUMAN -            433      0.02   14.7   0.1   3   3      0.57   1.9e+03   -1.6   0.0    46    84   308   348   294   361 0.67 Phosphotransferase enzyme family
+Kdo                  PF06293.12   207 sp_Q15831_STK11_HUMAN -            433     0.051   12.8   0.2   1   1   8.2e-05      0.27   10.4   0.2    44   155    80   188    68   197 0.80 Lipopolysaccharide kinase (Kdo/WaaP) family
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_Q15831_STK11_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 07:26:43 2016
+# [ok]

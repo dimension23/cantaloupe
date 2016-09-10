@@ -1,0 +1,17 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF4407              PF14362.4    298 sp_Q8NG31_CASC5_HUMAN -           2342         5    6.2   9.7   1   2      0.31   2.5e+03   -2.6   0.5   119   222  1760  1798  1742  1834 0.42 Domain of unknown function (DUF4407)
+DUF4407              PF14362.4    298 sp_Q8NG31_CASC5_HUMAN -           2342         5    6.2   9.7   2   2   2.6e-05      0.21   10.8   3.1   131   275  2020  2161  1977  2173 0.73 Domain of unknown function (DUF4407)
+DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342       7.6    6.9   8.5   1   2   0.00091       7.4    6.9   0.2    10    40   804   836   803   837 0.79 DASH complex subunit Hsk3 like
+DASH_Hsk3            PF08227.9     45 sp_Q8NG31_CASC5_HUMAN -           2342       7.6    6.9   8.5   2   2     0.038   3.1e+02    1.7   3.3     4    36  2085  2117  2082  2118 0.85 DASH complex subunit Hsk3 like
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P07949_RET_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 07:26:09 2016
+# [ok]

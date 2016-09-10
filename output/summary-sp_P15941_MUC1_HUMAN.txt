@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SEA                  PF01390.18   106 sp_P15941_MUC1_HUMAN -           1255   4.1e-13   49.4   1.0   1   1   7.7e-17   6.2e-13   48.8   1.0     3    90  1043  1123  1041  1137 0.86 SEA domain
+Collectrin           PF16959.3    154 sp_P15941_MUC1_HUMAN -           1255      0.19   11.3   0.0   1   1   3.6e-05      0.29   10.7   0.0    76   154  1109  1188  1089  1189 0.87 Renal amino acid transporter
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /tmp/seq
+# Target file:     /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm
+# Option settings: ./hmmscan -o /tmp/hmmscan-stdout --domtblout ../output/summary-sp_P15941_MUC1_HUMAN.txt /home/cloudera/cantaloupe/database/pfam/Pfam-A.hmm /tmp/seq 
+# Current dir:     /home/cloudera/cantaloupe/tests
+# Date:            Sat Sep 10 07:26:50 2016
+# [ok]

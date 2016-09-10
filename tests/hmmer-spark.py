@@ -1,9 +1,10 @@
+import sys
 from pyspark import SparkConf, SparkContext
 import datetime
 
 APP_NAME = "hmmer-spark testing"
 
-def main(sc):
+def main(sc,filename):
 
     a = datetime.datetime.now()
     scriptPath = "hmmer.sh"    
@@ -14,35 +15,20 @@ def main(sc):
  
     # small dataset
     a = datetime.datetime.now()
-    data = sc.textFile(small_seq_db)
+    data = sc.textFile(filename)
     pipeRDD = data.pipe(scriptPath)
     pipeRDD.collect()
     b = datetime.datetime.now()
-    print "**** TIME : SMALL SEQ DATASET ***"
+    print "**** %s ***" % filename
+    print " "
     print (b-a)
-    print "*********************************"
-
-    # medium dataset
-    a = datetime.datetime.now()
-    data = sc.textFile(medium_seq_db)
-    pipeRDD = data.pipe(scriptPath)
-    pipeRDD.collect()
-    b = datetime.datetime.now()
-    print "**** TIME : MEDIUM SEQ DATASET ***"
-    print (b-a)
-    print "**********************************"
-
-    # large dataset
-    data = sc.textFile(large_seq_db)
-    pipeRDD = data.pipe(scriptPath)
-    pipeRDD.collect()
-    b = datetime.datetime.now()
-    print "**** TIME : LARGE SEQ DATASET ***"
-    print (b-a)
-    print "*********************************"
+    print " "
+    print "************************************************************"
 
 if __name__ == "__main__":
     conf = SparkConf().setAppName(APP_NAME)
     conf = conf.setMaster("local[*]")
     sc   = SparkContext(conf=conf)
-    main(sc)
+    filename = str(sys.argv[1])
+    main(sc,filename)
+    sc.stop()
