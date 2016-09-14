@@ -7,15 +7,12 @@ APP_NAME = "hmmer-spark testing"
 def main(sc,filename):
 
     a = datetime.datetime.now()
-    scriptPath = "hmmer.sh"    
-
-    small_seq_db  = "file:///home/cloudera/cantaloupe/input/small.fasta"
-    medium_seq_db = "file:///home/cloudera/cantaloupe/input/medium.fasta"
-    large_seq_db  = "file:///home/cloudera/cantaloupe/input/large.fasta"
+    scriptPath = "hmmer.sh"
  
     # small dataset
     a = datetime.datetime.now()
-    data = sc.textFile(filename)
+    #data = sc.textFile(filename).repartition(3)
+    data = sc.textFile(filename) 
     pipeRDD = data.pipe(scriptPath)
     pipeRDD.collect()
     b = datetime.datetime.now()
